@@ -1,0 +1,210 @@
+FBQ1: The process of turning genes on and off is called _______
+Answer: Gene regulation
+
+FBQ2: ________is often mistakenly thought to be the final part of telophase. 
+Answer: Cytokinesis
+
+FBQ3: The process of splitting the daughter cells apart is called -------------
+Answer: Cytokinesis
+
+FBQ4: Mitosis is made up of two processes; ............. and ........................
+Answer: Karyokinesis, cytokinesis
+
+FBQ5: In humans during mitosis, the double chromosomes are split to produce ------------ single chromosomes
+Answer: 92
+
+FBQ6: In organisms with more than one set of chromosomes such as humans, random mating produces -------- and -----------.
+Answer: Homozygotes and heterozygotes
+
+FBQ7: The process by which cancer cells can invade other cells and spread to other location of the body is called -------------
+Answer: Metastasis
+
+FBQ8: The process of cell birth and cell death is termed ---------------.
+Answer: cell turnover
+
+FBQ9: Environments having a lower osmotic pressure is said to be ---------
+Answer: Hypotonic
+
+FBQ10: Cells which undergo a series of rapid divisions before reaching functional maturity are called _____.
+Answer: Cancer cells
+
+FBQ11: The Prokaryotic Ribosome is made up of -------- and --------
+Answer: RNA, protein
+
+FBQ12: The cytoplasm of a eukaryotic cell is also called  -------------
+Answer: Cytosol
+
+FBQ13: The major function of the Smooth Endoplasmic Reticulum is the synthesis of -----------------
+Answer: Lipids
+
+FBQ14: --------- is the endocytotic process in which a cell membrane encloses asmall amount of the surrounding liquid and its solutes in tiny pinocytotic vesicles
+Answer: Pinocytosis
+
+FBQ15: Lysosomes are manufactured by the --------------
+Answer: Golgi apparatus
+
+FBQ16: ----------- is a repository for genetic information and  cell control
+Answer: Nucleus
+
+FBQ17: Proteins are constructed from a set of ------ amino acids and have distinct three-dimensional shapes
+Answer: 20
+
+FBQ18: The primary structure of a protein refers to the sequence of -------- in the chain.
+Answer: amino acids
+
+FBQ19: The two main shapes of secondary structure of protein are ---------
+Answer: α helix and β sheet
+
+FBQ20: -------- structure of a protein is the interactions between proteinsubunits that result in the protein being classified as fibrous, globular or conjugated
+Answer: Quaternary
+
+FBQ21: --------------- proteins are messenger proteins which help to coordinate certain bodily activities
+Answer: Hormonal
+
+FBQ22: Carrier proteins which move molecules from one place toanother around the body are called ____
+Answer: Transport Proteins
+
+FBQ23: Proteins which are specific in actions are referred to as ____. 
+Answer: Enzymes
+
+FBQ24: Reverse transcriptase are essential component of --------
+Answer: Retroviruses
+
+FBQ25: Transcription is the transfer of genetic information from ------- to -----
+Answer: DNA, RNA.
+
+FBQ26: Translation is the synthesis of a polypeptide under the direction of -----
+Answer: mRNA
+
+FBQ27: Each nucleotide consists of how many portions?
+Answer: 3
+
+FBQ28: The monomers from which nucleic acids are constructed are called ----.
+Answer: Nucleotides
+
+FBQ29: The longest part of the cell cycle is ----------------
+Answer: Interphase
+
+FBQ30: _______ cells lose their capability to divide once they reach maturity. 
+Answer: Nerve
+
+FBQ31: ...........  is the process where one cell splits off from its sister cell and ends the cell division
+Answer: Cytokinesis
+
+FBQ32: The usual method of prokaryote cell division is ------------
+Answer: Binary fission
+
+FBQ33: Progamme cell death is otherwise known as ______    
+Answer: Apoptosis
+
+FBQ34: Cellular senescence is a state that occurs in response to______
+Answer: DNA damage
+
+FBQ35: Inhibition of protein synthesis during __________ phase prevents the cell from undergoing mitosis. 
+Answer: G2
+
+MCQ1: The name of ------- and --------------- are linked to the structure of DNA.
+Answer: Watson and Crick
+
+MCQ2: Which of these organelles deals with the breakdown of sugar molecules into energy 
+Answer: Mitochondrion
+
+MCQ3: Which of these is not involved in cell cycle?
+Answer: Increase in size
+
+MCQ4: The red blood cells must divide at a rate of --------------------- per second
+Answer: 1.2 million
+
+MCQ5: Which of these factors does not lead to declining cell division rates?
+Answer: declining levels ATP
+
+MC6: In cell cycle, the G2 Phase is collectively known as 
+Answer: Interphase
+
+MCQ7: A resting phase where the cell has left the cycle and has stopped dividing. This phase in the cell cycle is ----------------
+Answer: G0
+
+MCQ8: Which of these phases is not found in interphase?
+Answer: G0
+
+MCQ9: Which of these statements is not correct about G1 phase?
+Answer: The duration of the phase is constant
+
+MCQ10: Significant protein synthesis occurs during which phase of interphase?
+Answer: G2 phase
+
+MCQ11: The phase in the cell cycle that is marked by synthesis of various enzymes that are required and needed for DNA replication is --------------
+Answer: G0 phase
+
+MCQ12: Which of these organisms undergo closed mitosis?
+Answer: Aspergillus
+
+MCQ13: Regulation of the cell cycle involves the following except --------
+Answer: Cyclin of cell
+
+MCQ14: Perception of various signals in the cells include the following except
+Answer: cell quiescent
+
+MCQ15: Which of these is not characteristic of prometaphase?
+Answer: Kinetochore microtubules are shorten.  
+
+MCQ16: The chromosomes have aligned at the metaphase plate. Which stage of cell division is this?
+Answer: Metaphase
+
+MCQ17: Cell turnover is rapid in all the following except in ------------------------
+Answer: Liver
+
+MCQ18: The process of splitting the daughter cells apart is called ------------
+Answer: Cytokinesis
+
+MCQ19: Cell Turnover involves the following except ---------------------
+Answer: Cell differentiation
+
+MCQ20: In humans, meiosis occurs in
+Answer: Ovaries
+
+MCQ21: Cytokinesis in a plant cell is characterized by ------------------
+Answer: a pinching off of the cell membrane to divide the cell
+
+MCQ22: Which of these is not correct about cytoplasmic membrane?
+Answer: The phospholipids form a single layer in which most of the proteins are tenaciously held
+
+MCQ23: Which of these RNA contains information for protein synthesis
+Answer: mRNA
+
+MCQ24: In the nucleus of eukaryotic cells, the genetic material is complexed with protein and organised into linear structures called
+Answer: Chromosomes
+
+MCQ25: What is the  charge of the side chain of Aspertic acid?
+Answer: Negative
+
+MCQ26: The most important breakthrough in neurocytology and neuroanatomy came in 1873 when ----- developed the 'black reaction.
+Answer: Golgi
+
+MCQ27: The idea of spontaneous generation was refuted by-----------
+Answer: Louis Pasteur.
+
+MCQ28: ---------------- was credited with the primary thoughts of Evolution
+Answer: Anaximander
+
+MCQ29: Nucleus was found in epithelial cells in -----------
+Answer: 1781
+
+MCQ30: ------------- was the first to recognise the nucleus as an essential constituent of living cells
+Answer: Robert Brown
+
+MCQ31: The longest part of cell cycle is
+Answer: Interphase 
+
+MCQ32: The energy acquired during G2 is used in 
+Answer: cell division
+
+MCQ33: A chromosome that failed to separate during anaphase is said to be 
+Answer: non-disjunction
+
+MCQ34: An arm of a chromosome may be broken and the fragment is lost, this may lead to 
+Answer: Deletion
+
+MCQ35: A fertilized egg is called 
+Answer: Zygote
+

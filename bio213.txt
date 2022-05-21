@@ -1,0 +1,210 @@
+FBQ1: Phosphorylation is the synthesis of
+Answer: ATP
+
+FBQ2: The pressure caused by the potential of water to continuously move into a cell from outside is called ------------ pressure
+Answer: Osmotic
+
+FBQ3: The counterpart of osmotic pressure from inside the cell is called ------potential
+Answer: Osmotic
+
+FBQ4: The pressure that causes water pressure to push the plasma membrane against the cell wall is called ------- pressure
+Answer: Turgor
+
+FBQ5: When turgor is lost and cytoplasm shrinks away from cell wall, it is called _____.
+Answer: Plasmolysis
+
+FBQ6: …….. are typically move by facilitated diffusion that involves co-transport with another solute
+Answer: Sugars
+
+FBQ7: _____ Membranes allow the unrestricted movement of small molecules across the plasma membrane.
+Answer: Lipids
+
+FBQ8: Scientists measure energy in calories (cal) or _____.
+Answer: Joules
+
+FBQ9: A ……... is the amount of energy needed to move 1 kilogram through1 metre with an acceleration of 1 metre per second.
+Answer: Joule
+
+FBQ10: With the help of the enzyme pepsin, proteins can be changed to ------------
+Answer: Polypeptides
+
+FBQ11: The energy being used to do work is called ---------- energy
+Answer: Kinetic
+
+FBQ12: Exploding a knockout is one of the example of ------------ energy
+Answer: Kinetic
+
+FBQ13: What are epoxy resin sections stained with after being cut with a microtome?
+Answer: Toluidine blue
+
+FBQ14: The two primary energy transformations in plants are ---------- and  cellular transportation
+Answer: Photosynthesis
+
+FBQ15: …… uses light energy to convert CO2 and H2O to carbohydrates. 
+Answer: Photosynthesis
+
+FBQ16: The chemical reactions that transform energy in cells is collectivelycalled 
+Answer: Metabolism
+
+FBQ17: The chlorophyll is found in oval-shaped structures called _____.
+Answer: Chloroplast
+
+FBQ18: In plants, Extra nuclear DNA is found in 
+Answer: Chloroplast
+
+FBQ19: Plasma membrane is composed of Protein and ------------------
+Answer: Lipids
+
+FBQ20: The kinetic energy of a compound is contained in its ---------- bonds
+Answer: Chemical
+
+FBQ21: Most energy transformations in organisms are involve chemical reactions called Oxidations and -------------
+Answer: Reductions
+
+FBQ22: ---------- is the loss of electrons either alone or with hydrogen, from a molecule 
+Answer: Oxidation
+
+FBQ23: The sedimentation constant of ribosome is generally 70S and breaks up into two subunits whose sedimentation constants are
+Answer: 50S and 30S
+
+FBQ24: Metabolism is the sum of the vast array of ----------- and matter transformation in cells. 
+Answer: Energy
+
+FBQ 25: The sequence of electron carrier is known as the electron _____.           
+Answer: transport chain
+
+FBQ 26: The most common carotenoid is _____.
+Answer: beta carotene
+
+FBQ 27: Phosphorylation is the synthesis of -------------------
+Answer: ATP
+
+FBQ 28: __ is the final product of glycolysis.
+Answer: pyruvic acid
+
+FBQ 29: The chlorophyll is found in oval-shaped structures called ___.
+Answer: Chloroplast
+
+FBQ 30: In plants chemical energy is used to make sugar in the __.  
+Answer: Stroma
+
+FBQ 31: Vitamin A is a precursor of _____.   
+Answer: Retinal
+
+FBQ 32: Even in the presence of sunlight and water, photosynthesis cannot occur in the absence of _____.
+Answer: Carbon dioxide
+
+FBQ 33: ____ discovered penicillin.
+Answer: Fleming
+
+FBQ 34: ----------- refer(s) to growing plants without soil
+Answer: Hydrophonics
+
+FBQ 35: The protons and electrons required to reduce NADP⁺ to NADPH₂ come from
+Answer: H₂O
+
+MCQ 1: Nitrogen, phosphorus and sulphur are examples of
+Answer: Essential non-metallic elements
+
+MCQ 2: Through enzyme pepsin, proteins can be changed to 
+Answer: Polypeptides
+
+MCQ 3: Which of the following organelles is surrounded by only one membrane?
+Answer: Micro-bodies
+
+MCQ 4: Sugars made in leaves are transported through 
+Answer: Phloem tissues
+
+MCQ 5: Light absorbed by chlorophyll is converted into
+Answer: chemical energy
+
+MCQ 6: Carbon dioxide (CO2) taken in night is stored in form of
+Answer: chemical energy
+
+MCQ 7: Packets of light energy are known as --------------
+Answer: Photons
+
+MCQ 8: Energy is stored in chemical bonds such as those in sugar, starch and
+Answer: Fats
+
+MCQ 9: Energy is stored in chemical bonds such as those in sugar, starch and
+Answer: Fats
+
+MCQ 10: IR is absorbed by water and 
+Answer: carbon dioxide
+
+MCQ 11: In most plants, carbohydrates move largely as entirely as
+Answer: Sucrose
+
+MCQ 12: Due to chemical energy, water and carbon dioxide are converted into
+Answer: Carbohydrates
+
+MCQ 13: The green colour of leaves is due to solar chemical factories called
+Answer: Chloroplasts
+
+MCQ 14: The main difference between an animal and a plant cell is that -----------------
+Answer: Animal cell lack rigid cell wall
+
+MCQ 15: Extra nuclear DNA is found in
+Answer: Chloroplast
+
+MCQ 16: Mitochondria was first seen by ______
+Answer:  Altmann
+
+MCQ 17: Plasma membrane is composed of
+Answer:  Protein and Lipids
+
+MCQ 18: Cellular organelles containing hydrolytic enzymes are called
+Answer:  Lysosomes
+
+MCQ 19: Ribosomes  are responsible for --------------- in the cell
+Answer:  Protein synthesis
+
+MCQ 20: Food is converted to energy in ----------- of the cell
+Answer:  Mitochondria
+
+MCQ 21: The Chlorophyll of bacteria is called
+Answer: Bacteriochlorophylls
+
+MCQ 22: An essential component of chlorophyll molecule is
+Answer: Magnesium
+
+MCQ 23:  Facilitation of entry of CO2 into the leaf is done through stomata as well as through water film on the ----------------- cells
+Answer: spongy mesophyll 
+
+MCQ 24: Noncyclic photophosphorylation involve which of the following photosystems? I. photosystem I, II. photosystem II
+Answer: I and II
+
+MCQ25: In some microorganisms, the source of protons and electrons is _____.
+Answer: Hydrogen sulphide
+
+MCQ 26: Cork is useful in making stoppers for wine bottle because:
+Answer: Suberized tissues inhibit water los
+
+MCQ 27: Many metabolic functions in a cell occur in/on the ____.
+Answer: membranes
+
+MCQ28: Which of the following statements is not true of enzymes?
+Answer: they increase the energy of activation of reactions
+
+MCQ 29: Directly linked pigments to photosynthetic electron transport are _____.
+Answer: Chlorophylls
+
+MCQ 30: Directly linked pigments to photosynthetic electron transport are _____.
+Answer: Chlorophylls
+
+MCQ 31: In dark reaction,  ------------  are required for the reduction of CO₂ to carbohydrates
+Answer: ATP and NADPH₂
+
+MCQ 32: Microtubules are made of two types of globular proteins namely ------ tubulin
+Answer: Alpha and beta 
+
+MCQ 33: Photosynthetic pigments other than chlorophyll are called _____.
+Answer: Accessory pigments
+
+MCQ 34: Which of the following enzymes catalyzes the breakdown of hydrogen peroxide?
+Answer: Catalase
+
+MCQ 35: The region of ER that is encrusted with ribosomes is the -----------
+Answer: rough ER
+

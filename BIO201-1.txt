@@ -1,0 +1,210 @@
+FBQ1: In quantitative inheritance, it has been shown that a trait is controlled by ______ 
+Answer: Multiple genes
+
+FBQ2: Male bees (drones) develop by _______________ from unfertilized eggs. 
+Answer: Parthenogenesis
+
+FBQ3: A condition where a pair of chromosomes failed to separate during cell division is described as ______________
+Answer: Non-disjunction
+
+FBQ4: A male that possess female characteristics externally shows a condition known as ______________
+Answer: Testicular feminisation
+
+FBQ5: An organism producing two different types of sperms is said to be ________  
+Answer: Heterogametic sex
+
+FBQ6: An individual with genes that express themselves regardless of whether they are recessive or dominant is said to be_____________  
+Answer: Hemizygous
+
+FBQ7: A situation where a grandfather transmits his X chromosome to his grandson through his daughter is referred to as ______________
+Answer: Crisscross
+
+FBQ8:  A dark staining body in the interphase nucleus of most female somatic cell is called__________ 
+Answer: Barr body  
+
+FBQ9: The gene that is transmitted from father to the son only is described as ____________
+Answer: Holandric gene
+
+FBQ10: ________________ are the genes that are present in both sexes but only express themselves in one sex 
+Answer: Sex-limited traits
+
+FBQ11: Gametogenesis involves ____________ and __________________
+Answer: Oogenesis, spermatogenesis
+
+FBQ12: The sex cell which produces only one type of gamete is described ______________
+Answer: Homogametic cell
+
+FBQ13: The members of different gene pairs failed to recombine at random at the time of segregation during gamete formation. True or False? 
+Answer: False
+
+FBQ14: Variations in the number of individual chromosomes which give unbalanced set of chromosome is known as ______ 
+Answer: Aneuploidy
+
+FBQ15: The factors which are transmitted from parent to offspring were first  called gene by --------
+Answer: Mendel
+
+FBQ16: According to chromosome theory, different chromosomes carry the same genes. True or False
+Answer: False
+
+FBQ17: In which year did Hertvig and Straburger advanced the theory that the cell nucleus must contain the hereditary materials? 
+Answer: 1885
+
+FBQ18: The ratio of the different genotypes among the progeny of a cross is referred to as ____. 
+Answer: Genotypic ratio
+
+FBQ19: --------------------- process bring about an equal distribution of the nuclear materials important for the physiological and developmental process of the cell 
+Answer: Mitotic
+
+FBQ20: A cross in which the parents differ with respect to only one trait controlled by only one gene is known as ______. 
+Answer: Monohybrid Cross
+
+FBQ21: According to ______, there is a segregation of alleles such that only one member of a pair enters the gamete.
+Answer: Mendel
+
+FBQ22: During the formation of gametes, the two alleles of a given gene assort independently on non-homologous chromosomes. A statement of which of the Mendel’s law?
+Answer: second law of inheritance
+
+FBQ23: When there are n-pairs of chromosomes, how many types of gametes can be produced during meiotic cell division? 
+Answer: 2n types of gametes
+
+FBQ24: When an unbiased coin is tossed the probability that it will come up heads is______
+Answer: ½
+
+FBQ25: What is the probability that if a coin is tossed, it shall get either a head or a tail?
+Answer: The probability is 1
+
+FBQ26: When two alleles are identical, the genotype is said to be _____________
+Answer: Homozygous
+
+FBQ27: Probability is applicable to genetics when considering Mendel’s __________ of inheritance 
+Answer: Second law
+
+FBQ28:  When small phenotypic classes are so small that they are not sharply distinguishable; this is called __________
+Answer: Continuous variation
+
+FBQ29: The probability of occurrence in one trial of either of two mutually exclusive events is the sum of Probability of individual _______________
+Answer: occurrence
+
+FBQ30: The phenotypic expression of an organism is entirely attributable to the environment. True or False? 
+Answer: False
+
+FBQ31: The first significant breakthrough on the problem of quantitative inheritance was by ______ in 1909
+Answer: Nilsson-Ehle
+
+FBQ32: If two heterozygotes are crossed, the number of -------------- is larger than the number of phenotypic classes wherever the number of loci at which they differ is greater than one. 
+Answer: genotypic classes
+
+FBQ33: If we assume that four loci are involved in skin colour in man; A1, B1, C1 and D1 alleles contributing to pigment production while A2, B2, C2 and D2 are non- contributing A  marriage between pure black and pure white individuals would produce mulatto children with intermediate skin colour. What will be their genotype?
+Answer: A1 A2 B1 B2 C1 C2 D1 D2
+
+FBQ34: In 1891 a German biologist called __________ observed that in certain insects, the nuclei of half of the sperm contain an extra structure. 
+Answer: Hermann Henking
+
+FBQ35: One of the most clear cut pieces of evidence illustrating sex-linked inheritance was reported by Morgan in 1910 from crosses with __________ 
+Answer: Drosophila melanogaster
+
+MCQ1: Who stated that million, million spermatozoa All of them alive?
+Answer: Aldous Huxley
+
+MCQ2: Which year was the term genetics coined?
+Answer: 1906
+
+MCQ3: The hereditary factor was called gene by ---------------
+Answer: Johannsen
+
+MCQ4: Who theorised that small representative of elements of all parts of the parental body are concentrated in the semen
+Answer: Hippocrates
+
+MCQ5: Which year was hereditary factor called gene?
+Answer: 1909
+
+MCQ6: Who advanced the theory that the father’s semen provides the plans according to which the amorphous blood of the mother is to be shaped into the offspring?
+Answer: Aristotle
+
+MCQ7: In which century was AURA SEMINALIS first mention?
+Answer: 17th Century
+
+MCQ8: Which theory stated that either the egg or sperm contains the entire organism in a miniaturised but perfect form?
+Answer: Preformation theory
+
+MCQ9: Who stated that adult parts arise as a result of a gradual transformation or differentiation of embryonic tissues into increasingly specialised tissues?
+Answer: Karl Ernst Von Baer
+
+MCQ10: Who thought that mysterious vital forces were responsible for what he thought was a de novo origin of adult parts.
+Answer: Wolff
+
+MCQ11: Which theory was proposed to replace the theory of pangenesis?
+Answer: Theory of Germplasm
+
+MCQ12: Who proposed the theory of Germplasm?
+Answer: August Weismann
+
+MCQ13: Which of these scientists was not involved in the description of the process of fertilisation which includes the fusion of the egg and the sperm nuclei?
+Answer: Fleming Van Beneden
+
+MCQ14: --------- and ------------ developed the theory that the nucleus contains hereditary materials
+Answer: Hertwig and Strasburger
+
+MCQ15: Who postulated that offspring receives two particles one from each parent but exhibits only one? 
+Answer: Pierre-Louis Maupertuis
+
+MCQ16: ----------- stated that adult parts arise as a result of a gradual transformation or differentiation of embryonic tissues into increasingly specialised tissues
+Answer: Karl Ernst Von Baer
+
+MCQ17: Which year did Mendel publish his result after he reported it at a Natural science meeting?
+Answer: 1866
+
+MCQ18: Study in U.S showed that ------------ to --------- male births are affected by Klinelfelter’s syndrome
+Answer: 1/200 to 1/400
+
+MCQ19: Which of these chromosomes is not Klinefelter male? 
+Answer: XXXX
+
+MCQ20: Which theory stated that either the egg or sperm contains the entire organism in a miniaturised but perfect form?
+Answer: Preformation theory
+
+MCQ21: The sugars and phosphates in nucleic acids are connected to each other in
+Answer: phosphodiester bond.
+
+MCQ22: The sub-microscopic units which control the life processes of cell is called
+Answer: Gene
+
+MCQ23: What is polyspermic embryo?
+Answer: It is an embryo fertilised by more than one sperm
+
+MCQ24: The effect of dispermy is 
+Answer: Production of four asters in the zygote 
+
+MCQ25: How many blastomeres are formed in the first division of dispermic zygote?
+Answer: 4
+
+MCQ26: Which of these is not a consequence of polyspermic embryo?
+Answer: Four centrioles are introduced into the egg
+
+MCQ27: Who discovered that the abnormal development of dispermic embryo was the result of the erratic chromosome distribution?
+Answer: Boveri
+
+MCQ28: Apart from Non-disjunction of chromosomes, one of the following is a cause of TRISOMY condition.
+Answer: Trans-location
+
+MCQ29: Cell theory was credited to ---------------
+Answer: Schleiden and Schwann
+
+MCQ30: Establishment of comparative biochemistry was in the year 
+Answer: 1940
+
+MCQ31: In what year was the alga Spirogyra described?
+Answer: 1674
+
+MCQ32: The cell was first discovered and named by ­­­­­­­­­­­­­­­­­­­­­­­­­­__________________
+Answer: Robert Hooke 
+
+MCQ33: Cell was discovered in 
+Answer: 1665
+
+MCQ34: Which of these statements about cells is not correct?
+Answer: Cells form by free cell formation, similar to the formation of crystals  
+
+MCQ35: Who stated that “All cells arise from preexisting cells’’
+Answer: Rudolph Virchow
+

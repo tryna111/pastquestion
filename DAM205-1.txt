@@ -1,0 +1,210 @@
+FBQ1: The activity involving the gathering and use of information if it follows the scientific method is called ______
+Answer: Science
+
+FBQ2: __________is a systematic activity directed towards discovering and the development of an organized body of knowledge.
+Answer: Research
+
+FBQ3: An _____ report gives a clear picture of the problem and scope of the study.
+Answer: Abstract
+
+FBQ4: A researcher who carefully documents or reports the events that take place during a  riot serves a __  purpose.
+Answer: Descriptive  
+
+FBQ5: The term __ is also used to mean the confident understanding of a subject with the ability to use it for a specific purpose if appropriate.
+Answer: Knowledge
+
+FBQ6: __ normally believe that truth is through intuition without any search or further proof of what is being considered as the truth. 
+Answer: Priorists
+
+FBQ7: __ are classified as either primary or secondary according to the possible sources of  data that exist.
+Answer: Data  
+
+FBQ8: Secondary data are also called ____ information.
+Answer: Second hand
+
+FBQ9: Any individual case of a given population is an (a) __ of that population. 
+Answer: Element
+
+FBQ10: __ is a collection or set of individuals or objects whose properties are to be analyzed, It can be finite or infinite.
+Answer: Population
+
+FBQ11: __are a set of research information expressed in quantifiable forms for the purpose of statistical analysis.
+Answer: Data
+
+FBQ12: __are certain characteristics of objects which are amenable or subject to change and can take on different values at any given time depending on the condition(s)  imposed on them .
+Answer: Variables
+
+FBQ13: A __is a list of sampling units.
+Answer: Frame
+
+FBQ14: A __ is a subset of a population from which data for a study is collected.
+Answer: Sample
+
+FBQ15: Researchers should maintain and improve their own professional competence and expertise through life long education and  __
+Answer: Learning
+
+FBQ16: A magazine is an example of __ sources. 
+Answer: Secondary
+
+FBQ17: There are two types of sampling designs or models, probability and __sampling methods.
+Answer: non – probability
+
+FBQ18: In project writing, Purpose of the study is the same as  __ of the study
+Answer: Significance
+
+FBQ19: A researcher should avoid careless __ and negligence. 
+Answer: Errors
+
+FBQ20: Suggestions for further studies is always in chapter __
+Answer: Five
+
+FBQ21: Data collection instrument is always in chapter __
+Answer: Three
+
+FBQ22: There are two types of catalogue namely; the subject catalogue and the __ catalogue.
+Answer: Author
+
+FBQ23: Certification page comes after the __ page.
+Answer: Title
+
+FBQ24: Chapter _____  introduces the reader to the research problem. 
+Answer: One
+
+FBQ25: ____ is the bedrock of any meaningful and purposeful research.
+Answer: Literature Review
+
+FBQ26: In chapter __the researcher should also carefully explain the instruments used to obtain the data and outline step by step description of how the study was conducted.
+Answer: Three
+
+FBQ27: Chapter __is usually devoted to the detailed description of the statistical methods employed to analyze data, and the presentation of results.
+Answer: Four
+
+FBQ28: __ is the final stage in reporting.
+Answer: Referencing
+
+FBQ29: The _ enables researchers to keep abreast with current research in certain areas without going to the original reports
+Answer: Abstract
+
+FBQ30: A researcher should strive for ____ in all scientific communications. 
+Answer: Honesty
+
+FBQ31: ____ scales are scales that have order distance and specific origin.
+Answer: Ratio
+
+FBQ32: The three main validity are:  face validity, content validity, __ validity .
+Answer: Construct
+
+FBQ33: __ saves the researcher's time because the previous studies will provide inputs, information, mistakes, problem encountered and further suggestions.
+Answer: Literature Review
+
+FBQ34: Academic journals is an example of __ source is the research 
+Answer: Primary
+
+FBQ35: Encyclopaedia is an example of ___ sources.
+Answer: Secondary
+
+MCQ1: Which of the following options is normally true about literature review?
+Answer: Review of literature begins as soon as a research topic is selected
+
+MCQ2: Which of the following options is/are advantage(s) of literature review?
+Answer: All the options are correct
+
+MCQ3: Good research is always ________
+Answer: Systematic
+
+MCQ4: Research method is a part of __________
+Answer: Research Methodology
+
+MCQ5: Which of the following options is an example of primary data?
+Answer: News paper
+
+MCQ6: _________ is the first step of Research process
+Answer: Selection of a problem
+
+MCQ7: A problem well put is _________
+Answer: Half - Solved
+
+MCQ8: The first page of the research report is _____________
+Answer: Title Page
+
+MCQ9: Research abstracts, academic journals, professional trade publications, periodicals, conferences proceedings are classified under?
+Answer: The primary sources
+
+MCQ10: The final stage of the Research Process is ____________
+Answer: Report Writing
+
+MCQ11: A comprehensive full Report of the Research process is called __________
+Answer: Thesis
+
+MCQ12: A Research journal publication is called ____________
+Answer: Research Article
+
+MCQ13: Which of the options is not a type of style of referencing?
+Answer: Roland
+
+MCQ14: The original source from which researcher collects information is called ___________
+Answer: Primary Source
+
+MCQ15: Any source of Data collected and compiled by others is called ____________
+Answer: Secondary
+
+MCQ16: In ---------- the main purpose is to formulate a problem for more precise investigation
+Answer: Exploratory or Formulative study
+
+MCQ17: Failure to acknowledge the borrowed material is called ____________
+Answer: Plagiarism
+
+MCQ18: The technical name for someone who fills a questionnaire is ________
+Answer: Respondent
+
+MCQ19: What is the full meaning of the acronym SPSS?
+Answer: Statistical Package for the Social Sciences
+
+MCQ20: A member of the population is called ____________
+Answer: Element
+
+MCQ21: Which of the following options is not a type of research?
+Answer: Intuition Research
+
+MCQ22: Which of the following options is correct about a scientist?
+Answer: A scientist conceives of an idea, theorizes, defines operations and then observes
+
+MCQ23: Which of the following options is NOT true about an abstract?
+Answer: An abstract should be too long
+
+MCQ24: Which of the following options is correct about a Research?
+Answer: None of the options
+
+MCQ25: Which of the material(s) cannot be consulted when referencing?
+Answer: None of the options
+
+MCQ26: Which of the options is NOT A benefit of literature review?
+Answer: None of the options
+
+MCQ27: Which of the options should a researcher not discriminate against?
+Answer: All of the options
+
+MCQ28: Which of the following options is/are reason(s) for formulating Research questions?
+Answer: All of the options
+
+MCQ29: Which of the options is the source for research topics and questions?
+Answer: All  the options
+
+MCQ30: Which of the following options is not a type of variable?
+Answer: Array
+
+MCQ31: Which of the following options describes a set of research information expressed in quantifiable forms for the purpose of statistical analysis?
+Answer: Data
+
+MCQ32: When selection is done in such a way that the chosen one is a fair representation of the target population, the action is called?
+Answer: Random
+
+MCQ33: Which of following is NOT true about References?
+Answer: It is only found in chapter 2
+
+MCQ34: Which of the following options is correct about a scientist?
+Answer: A scientist conceives of an idea, theorizes, defines operations and then observes
+
+MCQ35: Which of the following is NOT true about an Abstract?
+Answer: It is exactly as the problem statement
+

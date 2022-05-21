@@ -1,0 +1,210 @@
+FBQ1: The caspids are made up of identical repeating subunits called ---------------------
+Answer: Casomeres
+
+FBQ2:  A tissue responsible for secondary growth in plants is called_________
+Answer: Cambium
+
+FBQ3: The flower parts in dicot is usually in four while in monocot is in ______
+Answer: Three
+
+FBQ4: Diatoms belong to the group of algae called ----------------------------
+Answer: 8Bacillariophyta
+
+FBQ5: Which of the cells in Hydra is for absorption and digestion of food?
+Answer: Glandular cells
+
+FBQ6: In viruses, there is a protective coat called_______ around the nucleic core
+Answer: Capsid
+
+FBQ7: The virus that causes HIV is called __________
+Answer: human immunodeficiency virus
+
+FBQ8: A short unicellular organ of attachment found in some spirogyra is called 
+Answer: Hapteron
+
+FBQ9: In the class Turbellaria ____________ are rarely present
+Answer: Suckers
+
+FBQ10: The main diagnostic feature of round worm is that it is _____ at both ends
+Answer: Elongated
+
+FBQ11: Under the highest magnification of light microscope, the smallest bacterium is about 0005 micrometers across while the largest may be up to ______micrometers long
+Answer: 0.02
+
+FBQ12: __________ segmentation is the transverse division of the body into similar parts
+Answer: Metameric
+
+FB13: What is the role of cell membrane in bacteria and other organisms?
+Answer: It controls what goes in and out of the cell
+
+FBQ14: Viruses that cause tomato and tobacco mosaic have molecular weight of 60 to 100 million. The molecular weight of viruses that cause fowl plague have a molecular weight of ____ to ____
+Answer: 200 to 400 million
+
+FBQ15: ---------- includes all those eukaryotes that are considered as ancestors of plants, animals and fungi
+Answer: Protoctista
+
+FBQ16: Members of fungi either live as  saprophytes or _________
+Answer: Parasites
+
+FBQ17: The group of plants which are not differentiated into roots, stems and leaves is called _________
+Answer: Thallophyta
+
+FBQ18: _______________are disease causing organisms which are specific to their host.
+Answer: Viruses
+
+FBQ19: The organelle in the cell that contains a mixture of water, salts, small organic compounds and micromolecules of many kinds is called _____
+Answer: Cytoplasmic matrix
+
+FBQ20: ________ is a structure in the plant cell that contains aqueous solution of mineral salts which regulate the turgidity of adjoining cytoplasm.
+Answer: vacuole
+
+FBQ21: A common example of fungi whose mycelium can produce both plus and minus is ________
+Answer: Neurospora
+
+FBQ22: Other name for shield in arthropods is 
+Answer: Carapace
+
+FBQ23: The phylum ________ is the largest in terms of number of animal species
+Answer: Arthropoda
+
+FBQ24: The immunodeficiency virus belongs to the group of RNA viruses known as -------------
+Answer: Retroviruses
+
+FBQ25: Some bacteria without cell wall and can change their shape are called --------------
+Answer: Mycoplasmas
+
+FBQ26: A coating on the outside of cell wall with a definite boundary in some bacteria is called --------------- layer
+Answer: Slime
+
+FBQ27: The group of plants though live on land but still dependent on water for completion of their life cycle is
+Answer: Bryophytes
+
+FBQ28: The ________ are the simplest form of land plants
+Answer: Bryophytes
+
+FBQ29: Organisms can only use two forms of energy, either Chemical or ----------
+Answer: light
+
+FBQ30: A covering of insect body that has a great influence on growth is called 
+Answer: Chitin
+
+FBQ31: The vascular tissue in Pteridophyte is found in __________ generation
+Answer: sporophyte
+
+FBQ32: The group of plants which usually produce cones on which sporangia ,spores and seeds develop is called 
+Answer: Conifers
+
+FBQ33: One of the challenges of _____ reproduction is how to get the non-motile gametes to reach the female gametes. 
+Answer: Angiosperm
+
+FBQ34: The --------------- are known as vascular plants.
+Answer: Tracheophytes
+
+FBQ35: In the phylum Rhizopoda, the ________ have naked surface without differentiation
+Answer: Sarcodinians
+
+MCQ15: The cell that is for capturing Hydra small animal food is called _____
+Answer: Stunging cells
+
+MCQ21: Which of the following is not a characteristic of Anelids?
+Answer: They are not bilaterally symmetrical
+
+MCQ22: Which of these is not a class of Anelids? 
+Answer: Entamelochaeta
+
+MCQ23: The following are members of Anelids except 
+Answer: Planeria
+
+MCQ24: The characteristics of arthropods include the following except
+Answer: Coelom highly developed
+
+MCQ25: Which of these is not a class of the phylum arthropoda?
+Answer: Polychaeta
+
+MCQ26: Arthropods are placed in the various classes on the bases of the following except 
+Answer: Number of segments
+
+MCQ32: What is the number of segments in Centipede?
+Answer: Between 15 to 20
+
+MCQ33: Which of these triploblastic coelomates is unsegmented? 
+Answer: Molluscs
+
+MCQ34: Which of these is not a class of vertebrates?
+Answer: Gastropod
+
+MCQ35: The part of mammalian skin which contains pigment for skin colour is called
+Answer: Malpighian layer
+
+MCQ1: Which of these statements is not correct about Paramecium?
+Answer: Oral groove and gullet are covered with flagella
+
+MCQ2: Which of these of organisms is not a protozoa?
+Answer: Cnidaria 
+
+MCQ3: Amoeba belongs to the phylum 
+Answer: Rhizopoda
+
+MCQ4: Sporozoa is in the phylum of 
+Answer: Apicomplexa
+
+MCQ5: An average size of Amoeba is 
+Answer: 0.02cm
+
+MCQ6: The food substance of Amoeba are usually _____  
+Answer: Diatoms
+
+MCQ7: Under which kingdom are bacteria classified?
+Answer: Monera
+
+MCQ8: Which of the following phyla contain parasites?
+Answer: Apicomplexa 
+
+MCQ9: Which of these is not a characteristics of the members of Porifera?
+Answer: Their body is symmetrical
+
+MCQ10: The following structures are part of  reproduction in Porifera except
+Answer: Collar cells
+
+MCQ11: Which of these statements is not true about Sponges?
+Answer: Their cells are highly specialised
+
+MCQ12: What is the role of mesogloea in Cnidaria?
+Answer: Separate ectoderm from endoderm
+
+MCQ13:   A good example of Cnidaria is 
+Answer: Hydra
+
+MCQ14: The stinging cells in Hydra that help to capture food organisms is called__
+Answer: Nematocysts cells
+
+MCQ16: Which of these groups of animals is the first to develop the organ system level of organization?
+Answer: Platyhelminthes
+
+MCQ17: Which of these is not a characteristic of platyhelminthes? 
+Answer: Biploblastic
+
+MCQ18: Which of these organisms is a member of Cestoda? 
+Answer: Taenia 
+
+MCQ19: Nematodes possesses the following characteristics except
+Answer: The digestive canal is open at one end
+
+MCQ20: Nematodes are like platyhelminthes in the following ways except in 
+Answer: They are both segmented
+
+MCQ27: The crustacean with wider thoracic and short abdomen is 
+Answer: Crab
+
+MCQ28: The appendage in the crayfish which branched into a pair of ponted chitinous structure is call 
+Answer: 1st Abdominal
+
+MCQ29: The serrated edge for gripping in crab is called
+Answer: Thoracic appendages
+
+MCQ30: If you are presented with an arthropod with the following features- head made up of six segments fused together, a pair of antennae and a pair of lateral compound eye such arthropod is 
+Answer: Insect
+
+MCQ31: Which of the following is not a characteristic of Diplopoda?
+Answer: A pair of legs in each segment
+

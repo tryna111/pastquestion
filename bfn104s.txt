@@ -1,0 +1,300 @@
+FBQ1: Elements of Banking provides student with a ------------ understanding of the subject matter.
+Answer: conceptual
+
+FBQ2: “This is the process of legally organizing an outfit to create, safe-keep, manage and transfer money from one person to another, from business to business or in a nut shell between surplus and deficit spending economic agents/ units”. What type of business does this statement refer?
+Answer: Banking
+
+FBQ3: Why did majority of the banks fail in the 1950s ________
+Answer: lack of regulation
+
+FBQ4: At the epicentre of a nation’s financial system is its ___________
+Answer: Central Bank
+
+FBQ5: _________ is the difference between loans and advances
+Answer: Tenor
+
+FBQ6:  What is the full meaning of BOFIA?
+Answer: Banks and Other Financial Institutions Act
+
+FBQ7:  When was the Central Bank of Nigeria established?
+Answer: 1959
+
+FBQ8: Who is the current Governor of the Central Bank of Nigeria? 
+Answer: Godwin Emefiele
+
+FBQ9: Which organisation has acceptance of deposits as its primary function? 
+Answer: Commercial banks
+
+FBQ10: What common name would you call Mortgage bank, Micro finance bank, Development bank and Community bank? 
+Answer: Specialized banks
+
+FBQ11: From the economic stand point defined money in terms of -------------- 
+Answer: function
+
+FBQ12: Fixed, Inventory and _______ are types of Investment
+Answer: Replacement
+
+FBQ13: A bill is discharged when all the orders it contains have been _______
+Answer: carried out
+
+FBQ14: Money can be demanded for the following motives: Transaction, Precaution and ----
+Answer: Speculative
+
+FBQ15: Legal Department is a ________ form of Departmentalization? 
+Answer: Functional
+
+FBQ16: Commercial paper is one of the ___________ of the money market
+Answer: instruments
+
+FBQ17: What do you call the system that involves exchanging merchandise for merchandise?
+Answer: Barter
+
+FBQ18: Y = C + S + I + G + (x-m). Y represents ___________ in the equation
+Answer: National income
+
+FBQ19: -------------refers to the several of a country’s money supply in order to measure the money supply in an economy.
+Answer: Money aggregates
+
+FBQ20: The money market is a market where ---------- funds are bought and sold.
+Answer: short term
+
+FBQ21: Treasury bills, Treasury certificates, Commercial paper, Call money, Certificates of deposit, Bankers Unit Fund and Eligible Development Stock. What are these collectively called?
+Answer: Money market instruments
+
+FBQ22: ---------------is a financial intermediaries licensed by the government to buy and sell foreign currencies on a small scale.
+Answer: Bureau de change
+
+FBQ23: The monetary sector of the economy is anchored by the ----------sector
+Answer: banking
+
+FBQ24: ---------- to save measures how much of the additional disposable income is saved i.e. not consumed
+Answer: Marginal Propensity
+
+FBQ25: A balance sheet is a financial statement that provides a snap shot of the __________ position of a business at a particular at point in time, usually the of a business’s financial year.
+Answer: financial
+
+FBQ26: A _______ is a bill of exchange drawn on a banker and payable on demand.
+Answer: cheque
+
+FBQ27: Autonomous Investment and ---------------- investment were identified by Keynes 
+Answer: Induced
+
+FBQ28: Cost of capital asset Expected rate of return and ----------- are determinants of Investment 
+Answer: Market rate of interest
+
+FBQ29: What does the acronym NPV represent _________
+Answer: Net Present Value
+
+FBQ30: _________ refers to the highest rate of return expected from an additional unit of a capital asset over its cost.
+Answer: Marginal Efficiency of Capital
+
+FBQ31: The economy of any country is basically driven by the banking system, as it contributes to ________ development
+Answer: economic
+
+FBQ32: National Income = Consumption + --------------
+Answer: Investment
+
+FBQ33: What concept did Bernard Mandeville first introduce?
+Answer: Paradox of Thrift
+
+FBQ34: Cash flow of a bank involves sources and ______ of funds
+Answer: uses
+
+FBQ35: These are parties in a bill of exchange transaction: Drawer, Drawee, Acceptor, Endorser and --------------------
+Answer: Payee
+
+FBQ36: Bills can be classified on the basis of time/period namely: Demand and ------
+Answer: Time
+
+FBQ37: ------------ is the process of transferring a bill of exchange from one person to another such that the benefits written on the bill the becomes payable to the new holder
+Answer: Endorsement
+
+FBQ38: _________ is a term that is commonly used to describe the way business firms are managed
+Answer: Corporate governance
+
+FBQ39: Parties to a cheque include Drawee, Drawer and -------------
+Answer: Payee
+
+FBQ40: ------------is a written order, signed by the drawer (i.e. the customer) that is used by a drawer to notify the drawee (i.e. the bank) to stop the payment of a cheque, he had previously issued.
+Answer: Countermand
+
+FBQ41: Types of Endorsement are Special, Blank and __________
+Answer: Restrictive
+
+FBQ42: Banks channel scarce resources from surplus economic units to -------- units.
+Answer: deficit
+
+FBQ43: What are the basic conditions for lending? (a) Character, (b) Capacity-contractual, (c) Capital, (d) Condition and (e) __________ 
+Answer: Collateral
+
+FBQ44: It has been previously held that for a person to be a Bank customer, it is essential and indispensable that the person should have ________ in the bank 
+Answer: opened an account
+
+FBQ45: Two basic principles  actually guide the design of the organization structure of a bank: Principle of unity of objective and -------------
+Answer: Principle of efficiency
+
+FBQ46: The Nigeria banking system could be said to be a mixture of the branch banking  system and the ------------ system
+Answer: unit banking
+
+FBQ47: What body does Chief Executives of all banks in Nigeria and the Governor of the CBN as Chairman constitute?
+Answer: Bankers Committee
+
+FBQ48: The three basic types of fund transmission modes used in correspondent banking are SWIFT, Mail and Telegraphic transfers (cable transfers) and -----------
+Answer: Electronic
+
+FBQ49: What does this acronym, IBRD stand for?
+Answer: International Bank for Reconstruction and Development
+
+FBQ50: What Regulation concerns cheques and funds transfer, as per cheque collection and returns, cash and non-cash items processes through central bank, as well as fund transfer through feel wire?______
+Answer: Regulation J
+
+MCQ1: What other name is commercial bank known?
+Answer: Acceptance house
+
+MCQ2: Banking and banking business is said to be highly 
+Answer: regulated
+
+MCQ3: As a Banker and Lender of Last Resort to banks, the CBN performs the following functions except
+Answer: Printing of bank notes
+
+MCQ4: Which is the first merchant bank to be established in Nigeria?
+Answer: NAL Merchant Bank
+
+MCQ5: What is the basis of Institutional definition of Money?
+Answer: Backed by the force of law
+
+MCQ6: At what point is the evolution of money?
+Answer: Electronic
+
+MCQ7: What does Yd represent in this equation: Yd = C + S?
+Answer: Disposable income
+
+MCQ8: What does this equation Y = C + I, mean?
+Answer: National Income = Consumption + Investment
+
+MCQ9: The structure of banks could generally be analysed in terms of the following characteristics, except
+Answer: Initial paid up capital
+
+MCQ10: What is the full meaning of the acronym, SWIFT?
+Answer: Society for Worldwide Inter-Bank Financial Telecommunications
+
+MCQ11: Eliminate the option that is not a type of bank lending
+Answer: Foreign exchange loan
+
+MCQ12: The bank financial statement may contain the following information except
+Answer: Government budget expenses
+
+MCQ13: What other name is bank known?
+Answer: Acceptance house
+
+MCQ14: Why did majority of banks of the 1950s fail?
+Answer: Lack of proper regulation and control
+
+MCQ15: When was the Central Bank of Nigeria established?
+Answer: 1959
+
+MCQ16: Which is the first merchant bank to be established in Nigeria?
+Answer: NAL Merchant Bank
+
+MCQ17: The following are functions of Mortgage Banks except 
+Answer: Granting of overdraft
+
+MCQ18: Which is not a characteristic of money?
+Answer:  Indivisibility
+
+MCQ19: What does Money Aggregate measure?
+Answer: Money supply
+
+MCQ20: What are the two forms of investment identified by Keynes?
+Answer: Autonomous and Induced
+
+MCQ21: What is marginal efficiency of investment? 
+Answer: The rate of return expected from a given investment on a capital asset after covering all its costs, except the rate of interest
+
+MCQ22: Negotiable instruments are often times _________instruments that are acceptable means of payments in transactions
+Answer: near cash
+
+MCQ23: A cheque is said to be stale 
+Answer: when it is presented after the expiration of the date specified on it.
+
+MCQ24: What is the concern of REGULATION J? 
+Answer: Cheques and funds transfer
+
+MCQ25: In what transaction is Letter of Credit involved?
+Answer: International trade and commerce
+
+MCQ26: When was the local branch of the Institution of Bankers established in Nigeria? 
+Answer: 1963
+
+MCQ27: The bottom line of the banking business is an efficient payment and
+Answer: intermediary system
+
+MCQ28: Why is the Central Bank called the apex bank?
+Answer: It is empowered by law to regulate and supervise commercial banks
+
+MCQ29: As a Banker and Lender of Last Resort to banks, the CBN performs the following functions except
+Answer: Printing of bank notes
+
+MCQ30: What other name is Merchant Bank called? 
+Answer: Wholesale bank
+
+MCQ31: Bank is an outfit legally registered to accept funds and other valuables for --------
+Answer: safe keeping
+
+MCQ32: What year was seen as an era for free banking? 
+Answer: 1952
+
+MCQ33: Prior to the establishment of the Central bank of Nigeria in 1959 there was a 
+Answer: West African Currency Board 
+
+MCQ34: Who is charged with the responsibility of administering the Banks and Other Financial Institutions Act (BOFIA) 1991?
+Answer: Central Bank of Nigeria 
+
+MCQ35: What is the designation of the Chief Executive Officer of the Central Bank of Nigeria?
+Answer: Governor
+
+MCQ36: Accepting deposit is one of the primary functions of which organisation?
+Answer: Commercial banks
+
+MCQ37: What determines the difference between loans and advances?
+Answer: Tenor
+
+MCQ38: Merchant banks are usually defined in terms of their --------------
+Answer: functions
+
+MCQ39: The functions of these specialized banking institutions vary according to their --------------
+Answer: types
+
+MCQ40: The ownership structure of the community banks is shared among how many groups?
+Answer: three
+
+MCQ41: Which is not a specialized bank? 
+Answer: Commercial bank
+
+MCQ42: From this Economics stand point, for money to be generally acceptable, it must backed up by the ----------.
+Answer: institutional force of law
+
+MCQ43: Which other way can you express money as a measure of value?
+Answer: Units of accounts
+
+MCQ44: What is the common name for these concepts? Treasury bills, Treasury certificates, Commercial paper, Call money, Certificates of deposit, Bankers Unit Fund, Eligible Development Stock, Interbank Market, Negotiable Certificate of Deposit? 
+Answer: Financial instruments
+
+MCQ45: Savings is defined as the difference between disposable income and--------  
+Answer: consumption
+
+MCQ46: What other name is Merchant Bank called? 
+Answer: Wholesale bank
+
+MCQ47: Which one is not a type of investment? 
+Answer: Annual investment
+
+MCQ48: The Board of Directors of a bank is not involved in -------------- 
+Answer: The day-to-day running of the bank
+
+MCQ49: What type of instrument is a cheque? 
+Answer: Negotiable
+
+MCQ50: Which is not a type of bank lending? 
+Answer: Composite 
+

@@ -1,0 +1,210 @@
+FBQ1: Control + J is short cut for ________
+Answer: Justify
+
+FBQ2: N.P. indicated by the side of a word in a sentence, indicates starts a new ____
+Answer: Paragraph
+
+FBQ3: Letters written or received from relatives and friends are  termed as ______
+Answer: Personal Letters
+
+FBQ4: There is no communication if the receiver cannot decode (interpret) What has been sent? True or False_______?
+Answer: True
+
+FBQ5: You are not to use other people’s computer resources without _______
+Answer: Authorisation
+
+FBQ6: You are not to use a computer to _____ other people.
+Answer: Harm
+
+FBQ7: Software virus is parasitic programmes which can _____themselves. 
+Answer: Replicate
+
+FBQ8: The value in A2 is subtracted from the value in A1means _____
+Answer: A1-A2 
+
+FBQ9: the value in X4 is divided by the value in Y4means ______
+Answer: =X4/Y4
+
+FBQ10: The value 2 is raised to the power of 8., it means____
+Answer: =2^8
+
+FBQ11: Statistics is often referred to as a subset of______
+Answer: Mathematics
+
+FBQ12: Mode is the arithmetic value that occurs _____ in a set of data.
+Answer: Most frequently
+
+FBQ13: Standard deviation is a measure of how widely data values are ______ from the arithmetical mean
+Answer: Dispersed
+
+FBQ14: There are ______ basic ways of managing large worksheets.
+Answer: Three
+
+FBQ15: How many types of charts are available in excel?______
+Answer: Eleven
+
+FBQ16: The ____ finger is used in typing letter E
+Answer: D
+
+FBQ17: Computer graphics refer to any _____ that can be produced by computer.
+Answer: Pictorial representation
+
+FBQ18: Graphics could be charts, diagrams or ______
+Answer: Pictures
+
+FBQ19: &nbsp;Paint Programs allow the user to integrate ____ into a document.
+Answer: Arts
+
+FBQ20: CAD programme is used for computer-aided drafting and used to assist designers of products in _______
+Answer: Drawing plan
+
+FBQ21: Other graphics software include CorelDraw and______
+Answer: Photoshop
+
+FBQ22:  A collection of organised data with relationship in their elements is refered to as ______
+Answer: A database
+
+FBQ23: Learn to blink at regular intervals when you use computer this would help reduce________
+Answer: Strain
+
+FBQ24: Ctrl + V is a short cut for ____
+Answer: Paste
+
+FBQ25: The acronyms MDT stands for ______
+Answer: Mobile Data Terminal
+
+FBQ26: Ctrl + B is a short cut for ____
+Answer: Bold
+
+FBQ27: _______ Compatibility is very important when upgrading your personal computer.
+Answer: Memory
+
+FBQ28: Legal and medical office management systems are examples of _______
+Answer: Vertical applications.
+
+FBQ29: The _______ enables you to change setting while typing
+Answer: Ruler
+
+FBQ30: What determine the kind of computer hardware and software that organisation would need_______?
+Answer: Need
+
+FBQ31: A dual layer Blue -ray can store data up to ________
+Answer: 50GB
+
+FBQ32: Rows in a table are called ______
+Answer: Records
+
+FBQ33: Columns in a table are called______
+Answer: Fields
+
+FBQ34: It is best to use ____ when you want a particular text to appear at the bottom of every page of a document except the first page
+Answer: Footer
+
+FBQ35: The international size of paper for typing long letters and memoranda is ____
+Answer: A4 portrait
+
+MCQ1: When the first line in a paragraph is flushed to the left hand margin, while the subsequent lines are indented, it means _____ paragraph is used.
+Answer: Hanging
+
+MCQ2: When all lines in a document begin at the left-hand margin, it means _____ paragraph is used
+Answer: blocked
+
+MCQ3: 'OS' Computer abbreviation usually means________? 
+Answer: Operating System
+
+MCQ4: The short cut of launching the find command is _____
+Answer: ctrl + f
+
+MCQ5: ________ can be calculated in Access by selecting the desired values by using Query
+Answer:  Grand total
+
+MCQ6: One of the careers that can be made from computer is _____
+Answer: Graphic artist 
+
+MCQ7: The following relates to health industry except______
+Answer: E-learning
+
+MCQ8: To track sales, one of the following would be most useful____
+Answer: Database management
+
+MCQ9: Problems cannot be separated from _____
+Answer: normal human daily activities
+
+MCQ10: The  major features of Microsoft Office Outlook 2007 includes all Except_______
+Answer: Ribbon
+
+MCQ11:  Which of the following can be used for updating and deleting multiple records at the same time? _____
+Answer: Query
+
+MCQ12: You can copy or cut text or object from paint environment to other environments such as word and excel.
+Answer: Agree
+
+MCQ13: Computer graphics are used in every kind of business Except______
+Answer: Moulding
+
+MCQ14: Graphing programs include all Except______
+Answer: Paint
+
+MCQ15: The following are the types of charts excel provides Except_______
+Answer: all the options
+
+MCQ16: The mean is the arithmetical average of a set of ____
+Answer: Data
+
+MCQ17: The following are common statistics that are used in problem analysis Except______
+Answer: Corel Draw
+
+MCQ18: Which of the following can be used to secure access to documents________?
+Answer: Password
+
+MCQ19:  Data or information generated or received need to be secure for the following reasons Except_______
+Answer: For intruders
+
+MCQ20: All are challenges that are usually encountered in tabular work Except________
+Answer: Copying
+
+MCQ21: The memoranda are another form of _______ communication in a business.
+Answer: Written
+
+MCQ22: Without the writer’s signature, a business letter is disregarded. 
+Answer: Agree
+
+MCQ23: To track assigned task in Access, click ______
+Answer: Option
+
+MCQ24: Any business should avoid _____
+Answer: computer misuse
+
+MCQ25: Any business should avoid _____
+Answer: computer misuse
+
+MCQ26: All are most commonly used business documents EXCEPT______
+Answer: Map
+
+MCQ27: CPU means________
+Answer: Central Processing Unit
+
+MCQ28: To prevent virus use any antivirus programme like______
+Answer: Symantec Antivirus for Macintosh,Norton Antivirus &amp; McAfee Virus Scan
+
+MCQ29: The information that need to be documented in radiology may come from _____
+Answer: Tele-pathology
+
+MCQ30: The following are the main problems associated with business except _____
+Answer: Manage list of contacts
+
+MCQ31:  Formatting means choosing a style with which a document could be ________
+Answer: Display
+
+MCQ32: One of the careers that can be made from computer is ____
+Answer: graphic artist
+
+MCQ33: Where is the headquarter of Microsoft office located______?
+Answer: Washington
+
+MCQ34: _______ in computer is used for security.
+Answer: Firewall
+
+MCQ35: Right justification in a text means _____
+Answer: only the right hand margin would be justified
+

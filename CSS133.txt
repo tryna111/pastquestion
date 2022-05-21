@@ -1,0 +1,302 @@
+FBQ1: The term ‘criminology’ is essentially concerned with the __________ of crime. 
+Answer: scientific study
+
+FBQ2: There is no direct __________ between the detection of crime by the enforcement agents and the study of crimes and criminal behaviour carried out by the criminologists. 
+Answer: Linkage
+
+FBQ3: Criminology is the study of crime and _____________________________
+Answer: criminal behaviour
+
+FBQ4: Criminology is an _______________ field of study which analysis the aspects of a particular human behaviour.
+Answer: Interdisciplinary
+
+FBQ5: Penology, the study of penal ________________ or punishment 
+Answer: Sanctions
+
+FBQ6: Victimology is the study and _____________ of the victims of crime 
+Answer: Rehabilitation
+
+FBQ7: Criminalistics, the methods of ___________ and detection of crime, especially the job of law enforcement agencies and forensic experts 
+Answer: Investigation
+
+FBQ8: The psychological, physiological, social as well as environmental factors are important in determining why an individual exerts ___________.
+Answer: criminal behaviour
+
+FBQ9: In defining criminology as an independent discipline the seventeenth and _______________understanding of crime was regarded as an omnipresent temptation to which all human kind was vulnerable. 
+Answer: eighteenth century
+
+FBQ10: But the question was, “why some _____________and others resisted”. 
+Answer: Succumbed
+
+FBQ11: The explanation was trailed off into the __________ resort to fate, or the will
+Answer: Unknowable
+
+FBQ12: Crime is a particular form of ____________________.
+Answer: Deviance
+
+FBQ13: Laws are the most formal of ___________
+Answer: Norms
+
+FBQ14: Deviance relates to the violations of mores and ____
+Answer: folkways
+
+FBQ15: the term ‘crime’ specifically refers to those behaviours that violate norms encoded in the penal code or ______________ 
+Answer: criminal laws.
+
+FBQ16: Punishment for crime is therefore commonly harsher and more ______ than those for breakers of the folkways and mores.
+Answer: Formalised
+
+FBQ17: But the _______________  are not necessarily uniformly applied and the patterns of inequality are quite common. 
+Answer: Punishments
+
+FBQ18:  Durkheim divided laws into two kinds: Criminal Laws and _____________
+Answer: Civil Administrative Laws
+
+FBQ19:  It must be pointed out that crime is ____________ in time and place.
+Answer: Relative
+
+FBQ20:  What is a lawful behaviour in the past may constitute a criminal behaviour due to ______________social, economic and political factors.
+Answer: Changing
+
+FBQ21: Emile Durkheim (1893) said that crime is as a result of a necessary consequence of the existence of a collectively supported_____________
+Answer: Morality
+
+FBQ22:  Crime can be seen as a necessary part of every social order because any social order needs a ______________ supported morality
+Answer: Collectively
+
+FBQ23: Durkheim uses laws as an indicator of_______________________
+Answer: moral norms
+
+FBQ24:  A violation of criminal laws constitutes a violation of the____________, since it is understood that a person who violates a society’s law invites society’s anger and must be disciplined
+Answer: Collective conscience
+
+FBQ25: A violation of criminal law calls for punishment, but a violation of a civil law requires ________________of the victim by the offender.
+Answer: Compensation
+
+FBQ26: “An ___________does not shock the common conscience because it is criminal; rather it is criminal because it shocks the common conscience.
+Answer: Action
+
+FBQ27: Civil and __________laws represent a lesser expression of collective conscience in view of the nature of the consequences that flow from them
+Answer: administrative
+
+FBQ28: Crime is an act or omission defined by law and unless the elements specified by case law or ______________are present and proven beyond a reasonable doubt there may be no finding of a “crime” and a person may not be convicted of a crime.
+Answer: statutory
+
+FBQ29: Criminal laws call for ­­­­__________whereas civil laws seek to restore parties to their status quo ante.
+Answer: Retribution
+
+FBQ30:  Durkheim found that the proportion of the two types of law changes as
+societies move from mechanical to_____________________
+
+Answer: organic solidarity
+
+FBQ31: Societies with _______________are noted for higher proportion of penal or retributive laws
+Answer: mechanical solidarity
+
+FBQ32: But as the _______________increases and as society becomes integrated by organic solidarity
+Answer: Division of Labour
+
+FBQ33:  Mechanical solidarity is ______with a society with little Division of Labour
+Answer: Associated
+
+FBQ34: Societies with high Division of Labour are bound by ________________
+Answer: organic solidarity
+
+FBQ35: __________ to act is not a crime unless there is a duty to act; a mere moral duty to act would not suffice
+Answer: Failure
+
+FBQ36: ___________ defined law as an intentional act or omission in violation of criminal law (statutory and case law) committed without defence or justification and sanctioned by the state as a felony or misdemeanor.
+Answer: Paul Tappan
+
+FBQ37: A person may not be punished for his or her ______________.
+Answer: Thoughts
+
+FBQ38: Words may tantamount to an act as in treason, aiding or abetting. But to think about community a crime is not ______________
+Answer: Punishable
+
+FBQ39: Folkways, mores and law are three elements of____________
+Answer: social norms
+
+FBQ40: Social norms are concrete behavioural rules or guidelines that specify appropriate and ______________ behaviour.
+Answer: inappropriate
+
+FBQ41:  Values are the abstract, general concepts, ___________or ideas that provide a standard by which norms are judged.
+Answer: central beliefs
+
+FBQ42:  Values are thus widely held ………….for the maintenance of social order
+Answer: Beliefs
+
+FBQ43:  ______________see the breakdown of social norms as the underlying cause of social problems
+Answer: Sociologists
+
+FBQ44:  If people deviate from the social norms and values, they create disharmony to the ______________, and definitely, they should be labeled “criminals”.
+Answer: social structure
+
+FBQ45: Marijuna, a type of the ____________ is locally called eegbo, wee-wee, kaya or stone
+Answer: Cannabis sativa
+
+FBQ46: Formalised principles of law are normally enforced through the formal agencies of _____________
+Answer: social control
+
+FBQ47: In Nigeria, there are customary laws backed with. 
+Answer: formal sanctions
+
+FBQ48: The practices include the proscription of __________in public places.
+Answer: Nudity
+
+FBQ49: ____________ represent formalised norms that may derive from folkways or mores 
+Answer: Laws
+
+FBQ50:  laws are the Folkways and __________deemed so vital to dominant interests that they become translated into written, legal formalisations that even non-members of the society are required to obey
+Answer: mores
+
+MCQ1: Mores are strongly held norms whose violation would seriously offend the standards of _________________. 
+Answer: acceptable conduct
+
+MCQ2: The full meaning of EFCC is _______________________________
+Answer: Economic and Financial Crime Commission
+
+MCQ3: _________________ used the term folkways to designate a society’s customs for routine or causal interactions. 
+Answer: William Graham Summer (1959)
+
+MCQ4: The violation of ___________is generally not considered as serious within a particular culture. 
+Answer: folkways
+
+MCQ5: The principal characteristics are that folkways are fairly weak normssometimes called __________ which are passed down from the past.
+Answer: “conventions”
+
+MCQ6: ______are reactions that convey approval or disapproval of behaviour
+Answer: Sanctions
+
+MCQ7: Amongst the Yoruba’s, you are not to have a handshake with the Oba but should instead ____________before him
+Answer: prostrate
+
+MCQ8: Sanctions imposed on the violation of folkways are often relatively mild expressions of _______________
+Answer: reprimand
+
+MCQ9: An example of ____________ is the rule that forbids eating without having a mouth wash particularly in the morning.
+Answer: folkway
+
+MCQ10: folkways are the least important norms which involve in everyday ____________routines
+Answer: conventional
+
+MCQ11: Crime is defined relative to laws, and varies from society to society or omission, from state to state, from time to time, and from strict __________ to none.
+Answer: enforcement
+
+MCQ12: __________________argues that crime is a category which can be defined only by reference to the specific social norms and values of the society in which it occurs. 
+Answer: Emile Durkheim
+
+MCQ13: The violation of law in which there are no readily apparent victim such as prostitution, gambling, vagrancy, purchasing illegal drugs like cannabis or marijuana comes under _________________ 
+Answer: victimless crimes
+
+MCQ14: Common crimes committed in industrial societies, including robbery, burglary and larceny are classified as ______________________
+Answer: property crimes
+
+MCQ15: ______________involve threat of violence, include murder, manslaughter, infanticide, Assault, sexual Assault, Abduction and robbery.
+Answer: violent crimes
+
+MCQ16: Technically, crime is composed of two elements: _________and _________
+Answer: the act itself and criminal intent
+
+MCQ17: ________weigh the degree of intent in determining the seriousness of a crime and may find the person who kills another guilty of first-degree murder, second-degree murder, or manslaughter.
+Answer: Juries
+
+MCQ18: According to _____________, criminal law is a branch of public law which deals with the relationship between members of the public and the state. 
+Answer: Curzon (1973)
+
+MCQ19: ____________ spells out clearly the trial and punishment of offenders.
+Answer: Criminal Law
+
+MCQ20: The criminal laws are usually __________ by the political authority, e.g. the national or state assembly.
+Answer: enacted
+
+MCQ21: Criminal laws are usually_________________ in regard to those behaviours that are termed as deviant and at the same time in which conditions such behaviour may not be regarded as crime
+Answer: Specific
+
+MCQ22: Criminal law as an instrument of rule of law, it is expected to apply to__________irrespective of class, sex, ethnicity and religious or politicalaffiliation.
+Answer: all persons 
+
+MCQ23: Any law that does not prescribe a punishment for its violation should not be regarded as a ____________
+Answer: criminal law
+
+MCQ24: The common law developed in England after the introduction of ________ 
+Answer: Feudalism
+
+MCQ25: It was in the law that crime was not seen as an act against the whole society, therefore ______________was paid to the victim rather than the state. 
+Answer: compensation
+
+MCQ26: A major objective of criminal law is the ____________ and ____________.
+Answer: prevention and control of crime
+
+Multiple Choice Questions (MCQs) 26: ___________are standards that define the obligatory and expected behaviours of people in various situations
+Answer: Norms
+
+MCQ27: ___________are standards that define the obligatory and expected behaviours of people in various situations
+Answer: Norms
+
+MCQ28: When people’s expectations of behaviour are suddenly violated, they experience ____________ (Neubeck, 2005). 
+Answer: culture shock
+
+MCQ29: ____________ is the social processes by which norms and values become thoroughly ingrained and are largely unquestioned as ways of thinking and acting “normally”
+Answer: Internalisation
+
+MCQ30: Members fall cultures develop mechanisms for _______________
+Answer: internalisation
+
+MCQ31: When socialisation fails to produce the desired behaviour mechanisms/traits, “social control” comes in to enforce ____________.
+Answer: conformity
+
+MCQ32: The negative sanctions, or punishments, meted out to violators of norms vary in severity depending on the type of norm being ______________.
+Answer: transgressed
+
+MCQ33: Law is a body of rules of conduct prescribed by an authority with binding legal force, the ____________of which may attract punishment. 
+Answer: violation
+
+MCQ34: Law is a term derived from the Anglo-Saxon word, ______meaning to determine.
+Answer: ‘lagu’
+
+MCQ35: Salmond, for example, defined law as ‘the body of principles recognised and applied by the state for the ___________of justice’
+Answer: administration
+
+MCQ36: ____________defined law as ‘a set of rules imposed and enforced by a society with regard to the attribution and exercise of power over persons and things’
+Answer: Vinogradoff
+
+MCQ37: Pound defined law as a means of ‘social control through the systematic application of the forces of__________ organised society
+Answer: politically
+
+MCQ38: Austin defined law as ‘a rule ____________ for the guidance of individuals by the individuals with power over them
+Answer: laid down
+
+MCQ39: A criminal is a person who has violated the criminal law of the land and has been found guilty by a ____________________and punished accordingly.
+Answer: court of law
+
+MCQ40: _______________is a violation of norms of the land.
+Answer: deviance
+
+MCQ41: Crime is a particular form of ______________
+Answer: deviance
+
+MCQ43: The punishments for crime are commonly harsh and more_____________.
+Answer: formalised
+
+MCQ44: Criminology is simply a science of _________________.
+Answer: crime
+
+MCQ45: The fundamental focus of criminology is to ________ the criminal behaviour
+Answer: . ascertain
+
+MCQ46: __________________.deals with an important aspect of the criminal justice process, that is, punishment, correction, prevention and control of crime
+Answer: Penology
+
+MCQ47: maxim nulla poena sine lege means__________________________________..
+Answer: there is hardly any law without punishment
+
+MCQ48: Crime is ‘normal’ in all societies because it helps to keep a society ________ 
+Answer: orderly
+
+MCQ49: The three main categories of crimes are: ______________ ,______________ and________________
+Answer: crimes against a person, crimes against property, and crimes against public order
+
+MCQ 50: Deviant acts as murder, assault, and rape are crimes against ____________
+Answer: a person
+

@@ -1,0 +1,210 @@
+FBQ1: The stem of the pine is ________  while that of the fern is underground
+Answer: Aboreal
+
+FBQ2:  The figure shows the _____________ view of a well labelled rat
+Answer: Ventral
+
+FBQ3: A simple method widely used for the study of chromosomes is known as __________ technique
+Answer: Squash
+
+FBQ4: Wet a piece of bread, cover and leave on the table for about six days. You will notice white (or silver) threads. This mass of thread is the mycelium of the _________
+Answer: Mucor
+
+FBQ5: This diagram best describes a __________
+Answer: Pressure Cooker
+
+FBQ6: If a kymograph’s recordings are to be of any use, it is important to  provide a ______ scale
+Answer: Time
+
+FBQ7: Sterilization is very conveniently done in the Laboratories with the aid of  _________
+Answer: an autoclave
+
+FBQ8:  The diagram above can best be described as ________
+Answer: hot air oven  
+
+FBQ9: Acetic acid and ____ acid are most commonly used in technique procedures.
+Answer: Nitric
+
+FBQ10: The part labelled 3 in the diagram above is the _______
+Answer: Prism
+
+FBQ11:  Above is a schematic diagram of a horizontal ________ unit.
+Answer: laminar airflow
+
+FBQ12: ______ alcohol may be substituted for ethyl alcohol in the dehydration and hydration series
+Answer: Isopropyl
+
+FBQ13: The figure above describes a _______ of the brain of a frog
+Answer: Pithing
+
+FBQ14: Brain lies on the ______ side of the head, sub-oesophageal ganlion 
+Answer: Dorsal
+
+FBQ15: The trunk of a fish bears how many pectoral fins? 
+Answer: Two
+
+FBQ16:  The figure above shows the internal __________ of Agama 
+Answer: Anatomy
+
+FBQ17: The leaves of the pine are needle-like or scale-like and covered with waxy ______
+Answer: Cuticle
+
+FBQ18: _____ saline is used for rinsing blood and debris from tissues before placing them in the fixative
+Answer: Physiological
+
+FBQ19:  The figure above shows the _____ system of a male Agama
+Answer: Urinogenital
+
+FBQ20: After being killed, insects are pinned on the pinning board with the help of ______ pins.   
+Answer: Entomological
+
+FBQ21: An instrument used to demonstrate circulation of blood through capillaries in the web of a frog's foot is _____.
+Answer: Kymograph
+
+FBQ22: The part labelled 4 in the diagram above is the _______
+Answer: Clamp screw
+
+FBQ23: A place where plant specimens are kept, often in a dry state for biological studies is called ______
+Answer: Herbarium
+
+FBQ24: The whole process of a conversion factor applied to obtain the actual size of an object placed on a microscope slide is known as _______
+Answer: Micrometry
+
+FBQ25: ______ media support large varieties of microbes especially fungi and are useful for routine laboratory cultures
+Answer: Complex media
+
+FBQ26: Who collects, procures and preserves animal specimens for Laboratory use?
+Answer: Laboratory technician
+
+FBQ27: Live animals are generally collected from _______and ________  areas 
+Answer: Aquatic, land
+
+FBQ28:  This figure above describes the _____ method for culturing microbes on the solid medium
+Answer: Streaking
+
+FBQ29: A device for measuring gas pressure is called a ______.
+Answer: Manometer
+
+FBQ30: The headline that runs across all the columns  on top of a page is known as ______
+Answer: Banner
+
+FBQ31: The diagram shows the ____ section of a Mango
+Answer: Longitudinal
+
+FBQ32:  The diagram above describes the most commonly used _______
+Answer: Aspirator
+
+FBQ33: A technique for preparing slides of biological material is referred to as _____ preparation.
+Answer: Squash
+
+FBQ34: The safe and most efficient (chemical)  killing agent of insects is ________
+Answer: ethyl acetate
+
+FBQ35: A simple Manometer is also called a ________
+Answer: Respirometer
+
+MCQ1: The following are part of the activities in the organization of a laboratory except ___
+Answer: None of the options
+
+MCQ2: The following are laboratory safety general guidelines except ____
+Answer: Do not perform authorized experiments 
+
+MCQ3: Which of the following is not a type of Autoclave?
+Answer: Complex autoclave.
+
+MCQ4: ______ centrifuges should be used for most biological experiments 
+Answer: low-temperature
+
+MCQ5: ______ is/are used to examine various kinds of cells, tissues, and micro-organisms.
+Answer: Optical and Light microscopes
+
+MCQ6:  Inability to obtain a sharp image in microscopes could be as a result of ___.
+Answer: Optical and Mechanical causes
+
+MCQ7: The operations in servicing a microscope involve all of the following steps except _____.
+Answer: removal of optical components
+
+MCQ8: Which of these accessories is used for collecting live animals for laboratory use?
+Answer: All of the options
+
+MCQ9: The method mainly used for collection of nocturnal insects like moths, midges and some beetles is ____.
+Answer: Light trap
+
+MCQ10: When growing materials for squash preparation, root tips may be obtained by allowing them to germinate on a ______ blotting paper disc 
+Answer: wet
+
+MCQ11: Bryophytes are collected by the following processes except ____.
+Answer: Scrape the bryophytes from the place of occurrence.
+
+MCQ12: The following are processes for the collection of Pteridophytes except ____.
+Answer: Collect them from natural habitats in immature spore producing stage
+
+MCQ13: Collection of gymnosperms involves all of the following except ____.
+Answer: Collect the root, stem, leaves, male and female gametophytes of the plant and keep them in a cupboard
+
+MCQ14: In the collection of higher plants, you should:
+Answer: choose only those plants whose organs are easily seen.
+
+MCQ15:  Which of the plants above can be said to be rich in protein?
+Answer: a
+
+MCQ16: Entomological pins are made of ______ 
+Answer: Steel
+
+MCQ17: ________ method is mostly used for mounting small and dried insects.
+Answer: Point mounting
+
+MCQ18: Once specimens are collected and spread, they should be given _______ labels 
+Answer: permanent
+
+MCQ19: Proper mounting, spreading and displaying of animals/insects are necessary for ______ studies
+Answer: taxonomic
+
+MCQ20: In the placement of items based on available space in the Laboratory, which of these questions should be considered?
+Answer: All of the options
+
+MCQ21: In differentiating between a highly magnified single cell of spirogyra and mucor, the nucleus in the spirogyra is ______ than/to that of the mucor
+Answer: Bigger
+
+MCQ22: The stem of a pine is strong and _________
+Answer: Woody
+
+MCQ23:  The plant above is likely to be a __________ 
+Answer: Fern
+
+MCQ24:  To observe cells clearly under a microscope the cells need to be spread in a ______ layer
+Answer: Single
+
+MCQ25: The following are materials required for smear technique for cheek scrapings except ____
+Answer: Funnel
+
+MCQ26: In a squash preparation of the onion root tip, majority of cells will be in ______
+Answer: interphase 
+
+MCQ27: The acid most commonly employed in decalcifying and destaining solutions is ________
+Answer: Hydrochloric acid
+
+MCQ28: Physiological saline for invertebrates and cold blooded vertebrates is different from that of warm blooded vertebrates because of the proportion of ______
+Answer: sodium chloride
+
+MCQ29: Cultivation of ____ involves the provision of the correct nutrients and physical conditions in the laboratory to enable the organism to grow in an environment similar to their natural one
+Answer: micro-organisms
+
+MCQ30:   The diagram above can best be identified as a/an ____
+Answer: Potometer
+
+MCQ31: Who devised the Manometer?
+Answer: Warburg
+
+MCQ32:  The figure above demonstrates _______ in the web of frog
+Answer: microcirculation
+
+MCQ33: The following statements are correct of dissection except _____.
+Answer: Dissection is a minor component of the biology practical
+
+MCQ34: Animals are given ______ before dissection.
+Answer: anaesthesia
+
+MCQ35: Which of these objects may not be essential for Practicals?
+Answer: Thread
+

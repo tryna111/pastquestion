@@ -1,0 +1,300 @@
+FBQ1: Microbiology is the study of__________
+Answer: Microoganisms
+
+FBQ2: Microorganisms are organisms too small to be seen clearly by the_______eyes.
+Answer: Unaided
+
+FBQ3: Two fundamental different types of cells exist among microorganisms, they are prokaryotic and_________.
+Answer: Eukaryotic
+
+FBQ4: Based on cell type and mode of nutrition, there was an establishment of the_______kingdom system of classifying organisms.
+Answer: Five
+
+FBQ5: There are________Domain’s system of classification of organisms .
+Answer: Three
+
+FBQ6: Water _________microorganisms are found on the surface of fresh water and moist soils.
+Answer: Mould
+
+FBQ7: The advent of the________permitted the studying of microorganisms
+Answer: Microscope
+
+FBQ8: Alcohols are widely used as disinfectants and_________
+Answer: Antiseptics
+
+FBQ9: Anthony Van Leenwenhoek lived in Deff, Holland from the year________
+Answer: 1632-1723
+
+FBQ10: A halogen is any of the five elements in group_______of the periodic table.
+Answer: V11A
+
+FBQ11: Human insulin and human growth hormone are produced by genetically engineered__________
+Answer: Bacteria
+
+FBQ12: Citric acid is produced by microorganism called__________
+Answer: Aspergillus niger
+
+FBQ13: The spontaneous Generation Conflict states that living organism could develop from non-living_______.
+Answer: Matter
+
+FBQ14: Heavy metals such as mercury,silver,zinc,copper and arsenic are used as______
+Answer: Germicides
+
+FBQ15: Pasteur postulated the__________theory of disease.
+Answer: Germ
+
+FBQ16: Edward Jenner used a___________procedure to protect individuals from smallpox.
+Answer: Vaccination
+
+FBQ17: Koch’s discovery of solid culture media and__________culture concept supplied the most needed tools for the development of microbiology as a field of science.
+Answer: Pure
+
+FBQ18: ________is defined as the source of biological classification
+Answer: Taxonomy
+
+FBQ19: Sergei Winogradsky proposed the concept of_______
+Answer: Chem-lithotrophy
+
+FBQ20: George W.Beadle and Edward L.Tartum studied the relationship between genes and enzymes using the________.mould
+Answer: Bread
+
+FBQ21: Era of molecular microbiology began in the year________.
+Answer: 1870
+
+FBQ22: Analyses of genome and its activities will advance the field of________and help to investigate biological problems
+Answer: Bioinformatics
+
+FBQ23: In microscopy, resolution is the ability of a lens to separate or distinguish between small________that are close together.
+Answer: Objects
+
+FBQ24: Fixed, stained smears of microorganisms are frequently used for the observation of the________characteristics of bacteria.
+Answer: Morphological
+
+FBQ25: Microbiologists name microorganisms by using binomial of_____
+Answer: Linneaeus
+
+FBQ26: In Escherichia coli, coli is known as__________ name
+Answer: Species
+
+FBQ27: Physiological and metabolic characteristics used in classification and identification are ________in number.
+Answer: Sixteen
+
+FBQ28: Treponema causes_________
+Answer: Syphilis
+
+FBQ29: Borrelia causes________diseases.
+Answer: Lyme
+
+FBQ30: The wet mount or hanging drop technique permits examination of organization in a__________living condition.
+Answer: Normal
+
+FBQ31: ________is the process by which the internal and external structures of cells and microorganisms are preserved and fixed in position.
+Answer: Fixation
+
+FBQ32: ________staining is a type of staining procedure commonly used to identify Mycobacterium tuberculosis
+Answer: Acid fast
+
+FBQ33: Electron microscope uses a________of electrons in place of light waves to produce the image..
+Answer: Beam  
+
+FBQ34: Scanning electron microscope produces an image from electron released from________on an object’s surface.
+Answer: Atoms
+
+FBQ35: _______is the chemical transformation of organic compounds carried out by microorganisms and their enzymes..
+Answer: Fermentation
+
+FBQ36: _______causes whooping cough.
+Answer: Bordetella
+
+FBQ37: ________are pulmonary nocardiosis
+Answer: Norcardia
+
+FBQ38: _______bacteria recover copper and uranium from their ores.
+Answer: Thiobacillus feroxidans
+
+FBQ39: Chytridiomycetes or________are the earliest and simlest group of fungi.
+Answer: Chytrids
+
+FBQ40: The Zygomycota are made of fungi called________
+Answer: Zygomycetes
+
+FBQ41: ________are known as sac shaped reproductive structure called an ascus.
+Answer: Ascomycota
+
+FBQ42: Uredinomycetes are often considered as___________
+Answer: Basidiomycetes
+
+FBQ43: Red algae are also known as__________
+Answer: Rhodophycophyta
+
+FBQ44: Red algae contain chlorophyll________
+Answer: A
+
+FBQ45: Yellow-green algae are also known as___________
+Answer: Xanthophycophyta
+
+FBQ46: Golden algae are also known as__________
+Answer: Chrysophycophyta
+
+FBQ47: The Brown algae are also known as_________
+Answer: Phaeoophycophyta
+
+FBQ48: Bacillariophycophyta are also known as__________
+Answer: Diatoms
+
+FBQ49: Euglenophycophyta are also known as__________
+Answer: Euglenoids
+
+FBQ50: Cholera is caused by bacteria called_________.
+Answer: Vibrio cholerae
+
+MCQ1:  ______is a kingdom in the classification of organism.
+Answer: Monera
+
+MCQ2: ________is an example of domain.
+Answer: Archaea
+
+MCQ3: Slime moulds are_______which have different form at different stages of their life cycles.
+Answer: Protists
+
+MCQ4: Microbiology established a closer relationship with other disciplines during the______because of its association with genetics and biochemistry.
+Answer: 1940s
+
+MCQ5: Promising areas of microbiological research and their potential practical impacts in the future include HIV/AIDs, Tuberculosis, Poliomyelitis and________.
+Answer: SARS
+
+MCQ6: _______is a type of staining.
+Answer: Simple staining
+
+MCQ7: Fungi absorbs nutrients from their_______.
+Answer: Environment
+
+MCQ8: Viruses are_______entities.
+Answer: Acellular
+
+MCQ9: Re-emerging human diseases include_______
+Answer: SARS
+
+MCQ10: Microscopes provide________which enable us to see microorganisms and study their structure.
+Answer: Magnification
+
+MCQ11: Virions range in size from about________in diameter.
+Answer: 10 to 400um
+
+MCQ12: Microscope resolution is the ability of a lens to separate or_______between small objects that are close together.
+Answer: Distinguish
+
+MCQ13: Wine is produced from fruits using yeast stains called______ .
+Answer: Saccharomyces cerevisiae
+
+MCQ14: The first step in the life cycle of a virus is attached to a__________
+Answer: Host
+
+MCQ15: The steps involved in viral replication are______in numbers.
+Answer: Five
+
+MCQ16: There are________most widely used methods to isolate and purify viruses.
+Answer: Four
+
+MCQ17: ________is the avoidance of infection and food spoilage by eliminating microorganism from the surrounding..
+Answer: Hygiene
+
+MCQ18: Motile algae such as_________have flexible cell membrane called periplasts.  
+Answer: Euglena
+
+MCQ19: Microbes are essential tools in________. 
+Answer: Biotechnology
+
+MCQ20: Algal cells are__________
+Answer: Eukaryotic
+
+MCQ21: Bacilli shaped bacteria are also known as_________shaped bacteria.
+Answer: Rod
+
+MCQ22: Example of pear-shaped bacterial cells is_________
+Answer: Pasteuri
+
+MCQ23: Asexual reproduction processes in algae include purely_______binary fission.
+Answer: Vegetative
+
+MCQ24: Flagella in a bacteria may be polar or_______
+Answer: Lateral
+
+MCQ25: Algae are of great and general interest to all_________
+Answer: Biologists
+
+MCQ26: Algae are primary producers in most________food chains.
+Answer: Aquatic
+
+MCQ27: The shape of bacteria is governed by its rigid_______
+Answer: Cell wall
+
+MCQ28: Morphological structure of Streptococcus bacteria is arranged in________
+Answer: Chain
+
+MCQ29: ________derive carbon from inorganic sources such as Co2
+Answer: Autotrophs
+
+MCQ30: Two major types of continuos culture system commonly used are Turbidostats and________.
+Answer: Chemostats
+
+MCQ31: Protozoa contractility is due to__________
+Answer: Fibrils
+
+MCQ32: Many protozoa form resistant_______at certain times of their life cycle.
+Answer: Cysts
+
+MCQ33: Antimicrobial bleach is the same as_______
+Answer: Sodium hypochlorite
+
+MCQ34: Pseudopodium is an organ for__________
+Answer: Locomotion
+
+MCQ35: In ciliates the________is the actual opening through which food is ingested.
+Answer:  Cytostome
+
+MCQ36: Protozoa_______and ingest their food sources.
+Answer: Engulf
+
+MCQ37: Nutrition in protozoa is________
+Answer:  Heterotrophic
+
+MCQ38: There are________types of asexual reproduction.
+Answer: Three
+
+MCQ39: _________is a type of asexual reproduction.
+Answer: Budding
+
+MCQ40: Two adjacent_______in a DNA strand aremcovalently joined.
+Answer: Thymines
+
+MCQ41: Microbial growth is defined as an increase in the number of________
+Answer: Cells
+
+MCQ42: Most prokaryotes reproduce by binary_________
+Answer: Fission
+
+MCQ43: A septum is formed at_______cell
+Answer: Mid
+
+MCQ44: Depth filter is made up of__________materials.
+Answer: Fibrous
+
+MCQ45: The bacterial growth curve has_______phases
+Answer: Four
+
+MCQ46: ________is an example of bacterial growth curve.
+Answer: Lag phase
+
+MCQ47: Exponential phase is the same as________
+Answer: Log phase
+
+MCQ48: Listeria infection of brain and its membrane will damage________.
+Answer: Fetus
+
+MCQ49: The growth rate “R” is the number of generations per________
+Answer: Hour
+
+MCQ50: Zygomycota are nodes of fungi called_______.
+Answer: Zygomycetes
+

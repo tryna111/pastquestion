@@ -1,0 +1,210 @@
+MCQ1: Which of these is not a member of the fungal kingdom?
+Answer:  bread bacteria 
+
+MCQ2:       The male gametes are attracted to the female cells because of special hormones called
+Answer: gamones  
+
+MCQ3: Pyrenoids are found in which of the following organs of Spirogyra:
+Answer: Chloroplast
+
+MCQ4: The blue-green algae belong to
+Answer: Prokaryota 
+
+MCQ5:       The reproductive structures in fungi are formed from ------ structures 
+Answer: vegetative 
+
+MCQ6: Fucus has an advanced type of reproductive structure termed  ---------
+Answer: Receptacles 
+
+MCQ7: The cell wall of Golden brown algae is made of _____ and silica or scales of carbonate. 
+Answer: Pentin
+
+MCQ8: The cell wall of Golden brown algae is made of _____ and silica or scales of carbonate. 
+Answer: Pentin
+
+MCQ9: Endothecium divides to form_____
+Answer:  Columella
+
+MCQ10: Members of some algal divisions such as the euglenoids, cryplophytes dinolligellates, chrysophytes are predominantly_____
+Answer: Unicellular
+
+MCQ11: Some biologists consider algal divisions to be more related to the animal kingdom and classify them under _______
+Answer: Protozoa
+
+MCQ12: In Dinollagellates, asexual method of reproduction is by _____
+Answer: Cell division
+
+MCQ13: In Dinophyta division, cell wall consists of ______ plates 
+Answer: Cellulose 
+
+MCQ14: Dinoflagellates are mostly found as marine_______, 
+Answer: phytoplankton
+
+MCQ15: Antherozoid mother cells are called ----------------
+Answer: Androcytes
+
+MCQ16: In Chlamydomonas, when the zoospores are fully developed the ----------- wall dissolves releasing them free into the surrounding water
+Answer: parent cell
+
+MCQ17: Sexual reproduction in algae like in other organisms involves the fusion of two cells from opposite sex cells called ______ 
+Answer: Gametes
+
+MCQ18: The archegonia and bracts form a structure called________
+Answer:  Involucre
+
+MCQ19: The three types of gametic fusion are Isogamy, Anisogamy and _______ 
+Answer: Oogamy
+
+MCQ20: The fungi are unicellular, often multicellular or acellular _______ organisms 
+Answer: Eukaryotic
+
+MCQ21: The male sex organs in Phytophthora are antheridia and the female ______.
+Answer: Oogonia
+
+MCQ22: Rhizopus is a member of the Division __________.
+Answer: Zygomycota
+
+MCQ23: Rhizopus is commonly called bread mould since it is frequently found growing on _____ bread
+Answer: stale
+
+MCQ24: The basal swollen portion of the archegonium is known as ---------------
+Answer: Venter
+
+MCQ25: The diploid generation of the plant life cycle always produces  ____
+Answer: spores
+
+MCQ26: Archegonia may contain _______embryos
+Answer: sporophyte
+
+MCQ27: In terms of alternation of generations, the internal parts of the pollen grains of seed-producing plants are most similar to a fern gametophyte bearing only _________
+Answer: antheridia
+
+MCQ28: The leaves adjacent to the sex organs are called_____
+Answer: bracts
+
+MCQ29: Cells of the ---------- divide to produce an outer layer of jacket initials and an inner layer of sporogenous tissue 
+Answer: Amphithecium
+
+MCQ30: The closest relative of the familiar pine and spruce trees is _____.
+Answer: Gentophytes
+
+MCQ31: Algae show isomorphic alternation of generation, but bryophytes show_______ alternation of generation
+Answer: heteromorphic
+
+MCQ32: Filaments of Ulothrix are
+Answer: Unbranched
+
+MCQ33:       What is the storage product of most algae?
+Answer: Starch and oil
+
+MCQ34: The slippery nature of Spirogyra is due to covering of:
+Answer: Mucilage
+
+MCQ35: A mushroom consists of an umbrella-like cap and a stalk also known as the -----------
+Answer: Stipe
+
+FBQ1: In algae, when a cell divides and the daughter cells formed remain together within a common mucilage mass it is known as______
+Answer: Colony
+
+FBQ2: Meristematic tissues are present in:
+Answer: Anthoceros
+
+FBQ3: The body of an algae is called -------
+Answer: Thallus
+
+FBQ4: The yellow-green algae belong to the division ---------------
+Answer: Xanthophyta 
+
+FBQ5: Origin and evolution of sex in algae is best seen in ------------ algae
+Answer: Green 
+
+FBQ6:  In unicellular algae, thallus is simple and consist of a ---- cell
+Answer: Mosses
+
+FBQ7: Golden brown algae belong to the division ------------
+Answer: Chrysophyta
+
+FBQ8: The leaves adjacent to the sex organs are called_________
+Answer: Bracts
+
+FBQ9: Rhodophyta are also known as the -----------------
+Answer: red algae
+
+FBQ10:      Fungal sex organs are called _______
+Answer: Gametangia
+
+FBQ11: Yeasts are noted particularly for their ability to utilise _______, hence the name Saccharomyeetes is applied to this group 
+Answer: Carbohydrates
+
+FBQ12: ______ is the common type of unicellular fungi 
+Answer: Yeast
+
+FBQ13: _____ is an organism mostly found on the sticky sugary surface of ripe fruit and grows in any sugar solution
+Answer: Yeast
+
+FBQ14: Fungi are _______ eukaryotic organisms
+Answer: Unicellular
+
+FBQ15: The reproductive structures in fungi are formed from _____ structures
+Answer: Vegetative
+
+FBQ16: A mushroom consists of an umbrella-like cap and a stalk also known as ____
+Answer: Stipe
+
+FBQ17: _______ fungus cannot be seen with an unaided eye ?
+Answer: Slime
+
+FBQ18: The baker’s yeast is a _______
+Answer: Unicellular fungus
+
+FBQ19: Chromatophores are _______ in colour due to large amount of carotenoids  
+Answer: Brownish
+
+FBQ20: Fucus has an advanced type of reproductive structure termed ______
+Answer: Receptacle
+
+FBQ21: In Ulothrix, sexual reproduction takes place by means of ______biflagellate
+Answer: Isogamous
+
+FBQ22: In contrast to bryophytes, in vascular plants the dominant stage of the life cycle is the _____
+Answer: Sporophyte
+
+FBQ23: The algae Chlamydomonas demonstrates a complex life cycle that switches between haploid and diploid forms referred  to as -----------
+Answer: alternation of generations
+
+FBQ24: Fucus has an advanced type of reproductive structure termed ---------
+Answer: Receptacles
+
+FBQ25: When gamates are produced from different plus or minus thallus types it is called ------- condition.
+Answer: Heterothallic
+
+FBQ26: Sexual reproduction in algae like in other organisms involves the fusion of two cells from opposite sex called gametes, resulting in the formation of____
+Answer: Zygote
+
+FBQ27: In Chlamydomonas, when there is less water during reproduction, the zoospore develops into a non motile spore called
+Answer: Aplanaspore
+
+FBQ28: When vegetative reproduction takes place through specialized cells (other than sex cells), it is described as _____ reproduction.
+Answer: Asexual
+
+FBQ29: The most common type of reproduction in algae is by ________
+Answer: Binary Fission
+
+FBQ30: Chromatophores are brownish in colour due to large amount of -----------------  
+Answer: Carotenoids
+
+FBQ31: Plants which are not differentiated into roots, stems and leaves are grouped as 
+Answer: Thallophytes
+
+FBQ32: Bioluminescence is a phenomenon associated with 
+Answer: Pyrrophyta
+
+FBQ33: Algae are placed in the Kingdom_____
+Answer: Protista
+
+FBQ34: The thallus is the vegetative body of an -------------------
+Answer: Algae
+
+FBQ35: Cellular slime mould feeds on bacterial by a process known as
+Answer: Phagocytosis
+

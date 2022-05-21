@@ -1,0 +1,306 @@
+CSS242
+---------------------------------------------------------------------------------------------------
+
+Question: The idea that criminals are born and have specific physical characteristics that predict criminality was propounded by ____________ 
+Answer: Cesare Lombroso
+
+Question: __________ is the believe that criminals are evolutionary throwbacks. 
+Answer: Atavism
+
+Question: _________ attributed crimes to body types 
+Answer: William Sheldon
+
+Question: _____________ concluded that crime was inherited much in the same way as ordinary physical traits and features. 
+Answer: Charles Gooring
+
+Question: ____________ crimes are offences that persons commit while acting in their legitimate jobs and professions 
+Answer: White Collar Crimes
+
+Question: __________ are consensual acts (in which people are willing participants) and violations in which only the perpetrator is hurt, such as the personal use of illegal drugs, are called victimless crimes 
+Answer: Victimless Crimes
+
+Question: _____________ refers to the unlawful activities of members of criminal organisations that supply illegal goods and services. 
+Answer: Organised Crimes
+
+Question: ____________encompasses a range of offences connected with the use, transportation, purchase, and sale of illegal drugs. 
+Answer: Drug Crimes
+
+Question: The first contact an individual has is usually with the _______ 
+Answer: Police
+
+Question: The _______________ consists of law enforcement (police), courts, prosecutors, defense attorneys and corrections. 
+Answer: Criminal justice system
+
+Question: The first police force comparable to the present-day police was established in ___________ under King Louis XIV in France
+Answer: 1667
+
+Question: The term ____________is often used to refer to a juvenile who commits a minor criminal act
+Answer: Juvenile Delinquent
+
+Question: A __________ is one who fails to do that which is required by law or by duty when such failure is minor in nature. 
+Answer: Delinquent
+
+Question: ____________ theory explains offenders are motivated by rational self-interest.
+Answer: Rational choice theory
+
+Question: ­­­­___________ theory holds that crime is caused by the difficulty those in poverty have in achieving socially valued goals by legitimate means.
+Answer: Strain theory
+
+Question: Those who buy into a system of socially approved means, but lose sight of the goals. Merton believed that drug users are in this category according to R. K. Merton are  
+Answer: Ritualists
+
+Question: Merton referred to individuals who accept socially approved goals, but not necessarily the socially approved means as ________ 
+Answer: Innovation
+
+Question: The strain theory is associated mainly with the work of _____________ 
+Answer: R. K. Merton
+
+Question: Those who negate socially approved goals and means by creating a new system of acceptable goals and means according to Merton are _________  
+Answer: Rebellions
+
+Question: The differential association theory was postulated by _________ 
+Answer: Edwin Sutherland
+
+Question: __________ states that once young people have been labelled as criminal, they are more likely to offend
+Answer: Labelling theory
+
+Question: The Juvenile justice system was established by Jan in _______ in _______
+Answer: 1868 / Chicago
+
+Question: The juvenile justice system is a byproduct of the ________
+Answer: Progressive Era
+
+Question: ___________ is the scientific study of victimisation, including the relationships between victims and offenders, the interactions between victims and the criminal justice system
+Answer: Victimology
+
+Question: The_____________ theory posits that the location and context of the crime gets the victim of the crime and the perpetrator of that crime together.
+Answer: Environmental theory
+
+Question: Victim facilitation finds its roots in the works of ___________
+Answer: Marvin Wolfgang
+
+Question: The idea behind _________ is to study the elements that make a victim more accessible or vulnerable to an attack.
+Answer: Victim facilitation
+
+Question: __________ is defined as the relationship between perpetrator and victim of a crime.
+Answer: Penal Couple
+
+Question: ________ refers to information recorded by agencies on their administrative systems
+Answer: Administrative data
+
+Question: ________ refers to those criminal offences that have been reported to or detected by police, and subsequently recorded by them.
+Answer: Police data
+
+Question: __________ is the most widely sourced administrative data  
+Answer: Police data
+
+Question: ____ is one of the three major ways of measuring involvement in delinquent and criminal behavior 
+Answer: The self-report technique
+
+Question: _________ refers to the extent to which crime figures are correct representation of actual criminality or a reflection of the true situation of crime in a given area.
+Answer: Validity
+
+Question: _______ is the extent to which the crime figures are the result of a consistent measure of the same phenomenon from village to village, town to town and State to State
+Answer: Relability
+
+Question: ___________ is the extent to which the crime figures contribute to the knowledge of crime, improving the understanding, and providing enough information for projection and planning for the future.
+Answer: Utility
+
+Question: ________ is "the taking or attempting to take anything of value from the care, custody, or control of a person or persons by force or threat of force or violence and/or by putting the victim in fear (Byran, 2009). 
+Answer: Robbery
+
+Question: The word “rob” is from the German origin, from the word ________ 
+Answer: Raub
+
+Question: ____ is the act of stealing a car from a victim by force 
+Answer: Carjacking
+
+
+Answer:  
+
+Question: ____ involves use of a weapon, and aggravated robbery involving use of a deadly weapon or something that appears to be a deadly weapon 
+Answer: Armed robbery
+
+Question: “House job” is slang _________
+Answer: Armed robbery (usually of homes and organisations)
+
+Question: ___________is the threat to do something illegal, or the offer not to do something illegal, in the event that goods are not given, primarily using words instead of actions.
+Answer: Extortion
+
+Question: __________ is defined as, "unlawful entry into a structure to commit a felony or theft (Glick, 2005)."
+Answer: Burglary
+
+Question: _________refers to professional shoplifting, cargo theft, retail crime rings, DVD and VCD piracy and other organised crime occurring in retail environments. 
+Answer: Organised retail crime
+
+Question: Someone who carries out an act of or makes a career of theft is known as a __________
+Answer: Thief
+
+Question: In criminal law, __________ is the taking away or transportation of a person against the person's will, usually to hold the person in false imprisonment, a confinement without legal authority.
+Answer: Kidnapping
+
+Question: __________as defined by common law, is the unlawful killing of another human being with intent (or malice aforethought).
+Answer: Murder
+
+Question: _____________ occurs when the defendant kills with malice aforethought (intention to kill or cause serious harm), but there are mitigating circumstances which reduce culpability.
+Answer: Voluntary manslaughter
+
+Question: _____________is the unlawful killing of a human being without malice aforethought. 
+Answer: Involuntary manslaughter
+
+Question: Involuntary manslaughter is distinguished from voluntary manslaughter by the absence of_________. 
+Answer: Intention
+
+Question: _____________is also referred to as ‘unlawful act’ manslaughter
+Answer: Constructive manslaughter
+
+Question:  Crime is a breach of a rule or __________?
+Answer: Law
+
+Question: Informal relationships and sanctions have been deemed insufficient to create and maintain a desired __________?
+Answer: Social order
+
+Question: A person who fails to do that which is required by law or by duty when such failure is minor in nature is called a/an_______
+Answer: Delinquent
+
+Question: ALL but One are the reasons for delinquency
+Answer: Quality education
+
+Question: According to Graham &amp; Bowling (1995), Family factors which may have an influence on offending includes ALL except
+Answer: Pro bono
+
+Question:  _________is a mental or psychological impairment or retardation. 
+Answer: Insanity
+
+Question: A situation where people are relieved of criminal responsibility based on the fact that they only acted in defence of their person or property.
+Answer: Self defence
+
+Question: The argument that rests on the assumption that someone who is insane at the time of a crime lacks the capacity, or has diminished capacity, to act in a premeditated manner is known as ________ 
+Answer: Mental disorder defence
+
+Question: A situation where people are generally considered either not responsible or less responsible for their crimes if they were trapped or induced into committing them, by a law enforcement officer or by someone acting as an agent of Law Enforcement is known as __________ 
+Answer: Entrapment
+
+Question: The reason why people are not held legally responsible for acting in self-defence or in defence of a third party, is that, due to extenuating circumstances, they do not act with <em>________ </em>(Bohn &amp; Haley, 2002)
+Answer: Mens rea
+
+Question: A person may be excluded from criminal liability if he was forced or coerced to commit a crime. Such a person would be tagged to have acted under ____?
+Answer: Duress
+
+Question:  ___________is a programme of standardised sample surveys to look at householders’ experience with crime, policing, crime prevention and feelings of unsafety in a large number of countries.
+Answer: International Crime Victim Survey
+
+Question: According to Karman (2003), one of the criticism of the ICVS is that _____
+Answer: Respondents’ information are not verified
+
+Question:  Which of these is not a component of the Criminal Justice System?
+Answer: Federal Government
+
+Question: Juvenile justice agencies are intended to operate within the________?
+Answer: Rule of law
+
+Question: The first contact an offender has with the criminal justice system isusually with the __________?
+Answer: Police
+
+Question: The first police force comparable to the present-day police was established in ­­­­­­­­­­­­­­­­­­­­­­­_____________
+Answer: 1667
+
+Question: Where and when do modern police usually trace their origins to the 1800 establishment of the MarinePolice in London,
+Answer: Marine police in London, 1800
+
+Question: Presently, the _______has also been empowered by the Nigerian government to engage in policing activities. 
+Answer: Civil Defence Corp
+
+Question: The focus of the juvenile justice system is to _________ ?
+Answer: Rehabilitate juveniles
+
+Question: All except one are needed in the juvenile court setting.
+Answer: Comptroller of prison
+
+Question: The __________states that crimes against humanity are particularly odious offences in that they constitute a serious attack on human dignity or grave humiliation or a degradation of one or more human beings.
+Answer: Rome Statute Explanatory Memorandum
+
+Question: ICC stands for _____________?
+Answer: International Criminal Court
+
+Question: In 2002, the ICC was established in __________?
+Answer: The Hague (Netherlands)
+
+Question: Which of the below is correct?
+Answer: Crime cannot be wiped away totally
+
+Question: People needs_________ to ensure they comply with the laws, and other policies and practices designed to prevent crime
+Answer: Police
+
+Question: Not all breaches of the law are considered crimes.
+Answer: True
+
+Question: A Latin word which refers to criminal action or inaction that causes harm is called ___________?
+Answer: Actus reus
+
+Question: A Latin word that refers to a criminal intent or a guilty state of mind is known as ____________?
+Answer: Mens rea
+
+Question:  The concept that gives certain people legal excuse or defence against criminal responsibility based on their age is __________?
+Answer: Under-age
+
+Question: ______ is a process where the criminal act must lead directly to harm without a long delay
+Answer: Causation
+
+Question: For any behaviour to be considered a crime there must be a statutory provision for a punishment or at least the threat of punishment.
+Answer: True
+
+Question: A/an ________definition of crime views crime as deviant behaviour that violates prevailing norms, specifically, cultural standards prescribing how humans ought to behave.
+Answer: Normative
+
+Question: Laws that define crimes which violate social norms are set by legislatures, and are called ___________?
+Answer: Mala-prohibita 
+
+Question: Laws that are nearly universally outlawed, such as murder, theft andrape are called ___________?
+Answer: Mala in se
+
+Question: According to statistics, which gender is more predisposed to commit more crime?
+Answer: Male
+
+Question: NDLEA means __________
+Answer: National Drug Law Enforcement Agency
+
+Question: EFCC means __________?
+Answer: Economic &amp; Financial Crimes Commission  
+
+Question: The relationship between perpetrator and victim of a crime is called _______.
+Answer: Victimology
+
+Question: ________ is the scientific study of victimisation, including the relationships between victims and offenders, the interactions between victims and the criminal justice system.
+Answer: Victimology 
+
+Question: Victims of white collar crime are often denied their status as victims by the social construction of the concept. This assertion was made by___
+Answer: Croall (2001)
+
+Question: There are majorly how many types of victimisation surveys?
+Answer: 2
+
+Question: A survey of a whole country in which people are asked to provide information on crimes which have been perpetrated against them is called ___________?
+Answer: National survey
+
+Question: When a specific (usually inner city) neighbourhood is targeted and criminologists or sociologists engage in a more detailed study of the same issues. This type of survey is __________
+Answer: Area or neighbourhood survey
+
+Question: _____ is used to obtain data on the extent of criminal victimisation
+Answer: Victim survey
+
+Question: ________are often used to assess the effectiveness of interventions 
+Answer: Repetition rate measures 
+
+Question: Counts are normally made over a _____ long reporting period 
+Answer: Year
+
+Question: ______ involve measuring the numbers of discrete victims and offenders as well as repeated victimisation rates and recidivism.
+Answer: More complex measures
+
+Question: ________ are gathered and reported by many countries and are of interest to several international organisations, including Interpol and the United Nations. 
+Answer: Crime statistics
+
+Question: Law enforcement agencies in some countries, such as the FBI in the United States and the Home Office in England &amp; Wales, publish crime indices, which are compilations of statistics for various types of _________ (Van der Westhuizen, 1981).
+Answer: Crime
+

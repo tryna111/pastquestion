@@ -1,0 +1,321 @@
+MCQ1: In semiconductor, the holes indicate the absence of 
+Answer: Electrons
+
+MCQ2: Accuracy of a measurement is determined by
+Answer: Relative error
+
+MCQ3:  The following are factors that affect the period of the simple pendulum bob EXCEPT
+Answer: Velocity
+
+MCQ4: If the time taken for twenty (20) oscillations in 2 minutes 50 seconds the period (T) is ________
+Answer: 8.5s
+
+MCQ5: Which of the following equation gives a relationship between period T and length l of the string for a simple pendulum?
+Answer: 
+
+MCQ6: The main aim of the simple pendulum and bar pendulum is to determine the value of 
+Answer: Acceleration due to gravity
+
+MCQ7: The process of gradually decreases in the amplitude of oscillations of the pendulum bob is called
+Answer: Damping
+
+MCQ8: Error due to wear and tear in the instrument is called
+Answer: Backlash error
+
+MCQ9: One of the following must be known in order to decide upon the type of a spring for a particular purpose,
+Answer: Spring constant
+
+MCQ10: The method of determining the spring wire is _____.
+Answer: Static method
+
+MCQ11: 
+One of the following is a function of extension, in a static method of
+ Experiment.
+  
+Answer: Load
+
+MCQ12: The magnitude of applied force up to which a specimen retains its elastic property is defined as the
+Answer: Elastic limit
+
+MCQ13: Precision is a function of ____.
+Answer: Possible error
+
+MCQ14: The time taken to complete one oscillation is called____.
+Answer: Period
+
+MCQ15: The maximum displacement of the bob on either side of its equilibrium position is called ___.       
+Answer: Amplitude
+
+MCQ16: The method of determining the spring wire is ____.
+Answer: Static method
+
+MCQ17: The magnitude of applied force up  which a specimen retains its elastic property is defines as the
+Answer: Elastic limit
+
+MCQ18:  In static method, the measurement of extension of a spring is a function of _____.
+Answer: Load
+
+MCQ19: One of the following equations is the period of oscillation?
+Answer: 
+
+MCQ20: The junction formed when the holes from the p-side diffuse into the n-side and combine with free electrons and electrons from the n-type diffuse to the p-side and combine with holes is called   
+Answer: Depletion layer
+
+MCQ21: Two bodies moving along the same line but in opposite directions collide. This type of collision is said to be?
+Answer: Headon
+
+MCQ22: Where there is no external force acting on a system of particles, the total linear momentum of the system is ____.
+Answer: None of options
+
+MCQ23: The quality of sound produced depends upon which of the following vibration of the stretched string?
+Answer: Frequency
+
+MCQ24: A wave which transports energy as it propagates in space is said to be one of the following
+Answer: Progressive
+
+MCQ25: The points corresponding to zero amplitude are called ____.
+Answer: Node
+
+MCQ26: One of the following is the name of a  point with maximum amplitudes 
+Answer: Antinode
+
+MCQ27: One of the following is the equation of relation between wavelength ,λ, Tension, T and mass per unit length is
+Answer: None of the options
+
+MCQ28: The property of a wire to tend to come back to its original length when the suspended weight is removed is called
+Answer: Elasticity
+
+MCQ29: The internal force that come to play within a body that is subjected to deforming force is called
+Answer: Restoring
+
+MCQ30: The maximum stress a material can sustain without undergoing permanent deformation is termed as 
+Answer: Elastic limit
+
+MCQ31: Which of the following is the principle for measurement of low resistance methods based
+Answer: Wheatstone`s bridge
+
+MCQ32: Which of the following principle form the basis of many experiment instrument  in a physics laboratory
+Answer: Whetstone's bridge
+
+MCQ33: One of the following gives the relationship between electromotive force, E, resistance, R length l, resistivity ρ and thermoelectric emf, e 
+Answer: e =(ρE/R)l
+
+MCQ34: Which of the following is the circuit containing only a coil and a resistor in series
+Answer: RL-series
+
+MCQ35: Which of the following is formed by combining a p-type semi-conductor with an n-type semi-conductor (P-N)
+Answer: P-n 
+
+MCQ1: In semiconductor, the holes indicate the absence of 
+Answer: Electrons
+
+MCQ2: Accuracy of a measurement is determined by
+Answer: Relative error
+
+MCQ3:  The following are factors that affect the period of the simple pendulum bob EXCEPT
+Answer: Velocity
+
+MCQ4: If the time taken for twenty (20) oscillations in 2 minutes 50 seconds the period (T) is ________
+Answer: 8.5s
+
+MCQ5: Which of the following equation gives a relationship between period T and length l of the string for a simple pendulum?
+Answer: 
+
+MCQ6: The main aim of the simple pendulum and bar pendulum is to determine the value of 
+Answer: Acceleration due to gravity
+
+MCQ7: The process of gradually decreases in the amplitude of oscillations of the pendulum bob is called
+Answer: Damping
+
+MCQ8: Error due to wear and tear in the instrument is called
+Answer: Backlash error
+
+MCQ9: One of the following must be known in order to decide upon the type of a spring for a particular purpose,
+Answer: Spring constant
+
+MCQ10: The method of determining the spring wire is _____.
+Answer: Static method
+
+MCQ11: 
+One of the following is a function of extension, in a static method of
+ Experiment.
+  
+Answer: Load
+
+MCQ12: The magnitude of applied force up to which a specimen retains its elastic property is defined as the
+Answer: Elastic limit
+
+MCQ13: Precision is a function of ____.
+Answer: Possible error
+
+MCQ14: The time taken to complete one oscillation is called____.
+Answer: Period
+
+MCQ15: The maximum displacement of the bob on either side of its equilibrium position is called ___.       
+Answer: Amplitude
+
+MCQ16: The method of determining the spring wire is ____.
+Answer: Static method
+
+MCQ17: The magnitude of applied force up  which a specimen retains its elastic property is defines as the
+Answer: Elastic limit
+
+MCQ18:  In static method, the measurement of extension of a spring is a function of _____.
+Answer: Load
+
+MCQ19: One of the following equations is the period of oscillation?
+Answer: 
+
+MCQ20: The junction formed when the holes from the p-side diffuse into the n-side and combine with free electrons and electrons from the n-type diffuse to the p-side and combine with holes is called   
+Answer: Depletion layer
+
+MCQ21: Two bodies moving along the same line but in opposite directions collide. This type of collision is said to be?
+Answer: Headon
+
+MCQ22: Where there is no external force acting on a system of particles, the total linear momentum of the system is ____.
+Answer: None of options
+
+MCQ23: The quality of sound produced depends upon which of the following vibration of the stretched string?
+Answer: Frequency
+
+MCQ24: A wave which transports energy as it propagates in space is said to be one of the following
+Answer: Progressive
+
+MCQ25: The points corresponding to zero amplitude are called ____.
+Answer: Node
+
+MCQ26: One of the following is the name of a  point with maximum amplitudes 
+Answer: Antinode
+
+MCQ27: One of the following is the equation of relation between wavelength ,λ, Tension, T and mass per unit length is
+Answer: None of the options
+
+MCQ28: The property of a wire to tend to come back to its original length when the suspended weight is removed is called
+Answer: Elasticity
+
+MCQ29: The internal force that come to play within a body that is subjected to deforming force is called
+Answer: Restoring
+
+MCQ30: The maximum stress a material can sustain without undergoing permanent deformation is termed as 
+Answer: Elastic limit
+
+MCQ31: Which of the following is the principle for measurement of low resistance methods based
+Answer: Wheatstone`s bridge
+
+MCQ32: Which of the following principle form the basis of many experiment instrument  in a physics laboratory
+Answer: Whetstone's bridge
+
+MCQ33: One of the following gives the relationship between electromotive force, E, resistance, R length l, resistivity ρ and thermoelectric emf, e 
+Answer: e =(ρE/R)l
+
+MCQ34: Which of the following is the circuit containing only a coil and a resistor in series
+Answer: RL-series
+
+MCQ35: Which of the following is formed by combining a p-type semi-conductor with an n-type semi-conductor (P-N)
+Answer: P-n 
+
+FBQ1: In semi-conductor, the hole indicate the absence of 
+Answer: Electrons
+
+FBQ2: Relative error is defined as the _____ to the total measurement.
+Answer: possible error
+
+FBQ3: The systematic error is also called _________
+Answer: determinant error
+
+FBQ4: ____ waves are also refer to as standing wave.
+Answer: Stationary
+
+FBQ5: The ratio of longitudinal stress to strain within the elastic limit is ­­_______
+Answer: Young modulus
+
+FBQ6: The ____ displacement of bob on either side of its equilibrium position is called amplitude.
+Answer: Maximum
+
+FBQ7: The points corresponding to zero amplitude are called _____.
+Answer: Nodes
+
+FBQ8: An isolated system vibrates with its natural ____.
+Answer: Frequency
+
+FBQ9: The change in length per unit original length of the wire is called ___.
+Answer: Longitudinal strain
+
+FBQ10: A wave which transports energy as it propagates in space is said to be _____.
+Answer: progressive
+
+FBQ11: The restoring force per unit area set up inside the body is called _____.
+Answer: Stress
+
+FBQ12: The frequency of energy transfer in a coupling system depends on _____.
+Answer: Time taken
+
+FBQ13: At high frequencies of LCR series circuit the inductive reactance is _______
+Answer: Large
+
+FBQ14: The opposition offered by resistance is dependent on the frequency in an inductor and a _____.
+Answer: Capacitor
+
+FBQ15: Error that occurs due to parallax in reading a metre scale is called ____.
+Answer: faulty observation 
+
+FBQ16: The principle of conservation of energy is particular reference to conservation of ____energy
+Answer: Mechanical
+
+FBQ17: Beyond the elastic limit the applied force produced ______deformation 
+Answer: Plastic
+
+FBQ18: The magnitude of applied force up to which a specimen retains its elastic property defines the elastic _____.
+Answer: limit
+
+FBQ19: A simple pendulum is a _____ body capable of oscillating freely about a horizontal passing through it.
+Answer: Rigid
+
+FBQ20: The ability for a material to recover its original configuration is called _____.
+Answer: elasticity
+
+FBQ21: The simple pendulum has its equilibrium position at the _____.
+Answer: center
+
+FBQ22: ______motion is a universal phenomenon
+Answer: Oscillatory
+
+FBQ23: The process when the pendulum loses energy due to air resistance is called ___motion.
+Answer: Damped
+
+FBQ24: The period (T) increases with an/a _____ in the length of the pendulum. 
+Answer: Increase
+
+FBQ25: The length of the pendulum can be determined by adding the length of the string with the _____ of the pendulum bob.
+Answer: radius 
+
+FBQ26: A _______time is a more accurate automatic switching device.
+Answer: Digital
+
+FBQ27: As the temperature increases, the conductivity of the semi-conductor --------
+Answer: increases
+
+FBQ28: An ordinary stopwatch has a least count of _____.
+Answer: 0.1seconds
+
+FBQ29: The time taken by the pendulum to complete one oscillation is called _____.
+Answer: Period
+
+FBQ30: The value of certain physical qualities can be determined from the slopes of a ______ line of graph.
+Answer: Straight
+
+FBQ31: The fluctuation in the many times repeated measurement of the same quantity is called ____error.
+Answer: Random
+
+FBQ32: Error that occurs as a result of zero marking of the metre scale that has been worn out is called _____.
+Answer: End correction
+
+FBQ33: The systematic errors is also called _____errors
+Answer: Determinant
+
+FBQ34: ______ unit is used when measuring the inter-city distances
+Answer: Kilometer
+
+FBQ35: If a coil and a capacitor appear in a series, it is called _____circuit 
+Answer: LC-series
+

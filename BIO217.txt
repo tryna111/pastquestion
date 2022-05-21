@@ -1,0 +1,327 @@
+BIO217
+---------------------------------------------------------------------------------------------------
+
+Question: _____ was the first to grow bacteria on solid culture media to getpure culture.
+Answer: Robert Koch
+
+Question: _____ deals with the discovery of microbial enzymes and the chemical reactions they carry out.
+Answer: Biochemistry
+
+Question: The branch of Microbiology which studies the structures of microbial cells is called ____.
+Answer: Microbial Cytology
+
+Question: _____ are essential animal nutritional factors.
+Answer: Vitamins
+
+Question: Protists which have different forms at different stages of theirlife cycles are called ­­_____.
+Answer: Slime Moulds
+
+Question: Protozoa are normally found in __ habitat.
+Answer: moist
+
+Question: Protozoa exist in free living and _____forms. 
+Answer: symbiotic
+
+Question: _____ is a plant hormone is formed by the fungus. 
+Answer: Gibberellic acid
+
+Question: The avoidance of infection and food spoilage by eliminating microorganisms from the surrounding is termed ____. 
+Answer: hygiene
+
+Question: Microorganisms from the surroundings can be totally removed by_____ method.
+Answer: Sterilization
+
+Question: Microbes are used in biogas reactions to produce _____.
+Answer: Methane
+
+
+Answer: natural gas
+
+Question: The bacteria <em>______ </em>recover copper and uranium from their ores. 
+Answer: Thiobacillus feroxidans
+
+Question: Biological warfare is otherwise known as _____ warfare.
+Answer: Germ
+
+Question: <p style="text-align:justify">An increase in the number of cells in a population of microorganisms is referred to as _______.
+Answer: growth
+
+Question: In microbes that have cell walls, the membrane shrinks away from the cell wall by a process called ___. 
+Answer: plasmolysis
+
+Question: The use of incinerator is an example of ____ sterilization.
+Answer: Dry heat
+
+Question: <p style="text-align:justify">The killing, inhibition or removal of organisms that may be capable of causing disease is termed _____.
+Answer: disinfection
+
+Question: Bacteria are 0.5 to ____ μm in diameter. 
+Answer: 1.0
+
+Question: Based on their source of nutritive energy, bacteria are classified as ___ and ____.
+Answer: Phototrophs, Chemotrophs
+
+
+Answer: Chemotrophs, Phototrophs
+
+Question: Bacterial cell wall is made up of _____.
+Answer: peptidoglycan
+
+Question: Bacteria are classified based on differences in the ___ of cell wall 
+Answer: composition
+
+Question: ____ act as protection against drying and bacteriophages 
+Answer: Capsules
+
+
+Answer: Capsule
+
+Question: Fungi comprise the molds, mushrooms and ____.
+Answer: yeasts
+
+Question: The vegetative structure of a fungus is called ____. 
+Answer: thallus
+
+Question: _____ are the most numerous microorganisms on earth.
+Answer: Viruses
+
+Question: ____ can be used for detecting and isolating mutants.  
+Answer: replace planting
+
+Question: <p style="text-align:justify">A _____ is a strain of any cell carrying a change in the nucleotide sequence.
+Answer: mutant
+
+Question: Paramecium moves rapidly by ___ beating of the cilia.  
+Answer: rhythmic
+
+Question: Classification of Protozoa is by the use of ____.
+Answer: general characterisrics
+
+Question: Phytomastigophora are divided into __ groups.
+Answer: two
+
+
+Answer: 2
+
+Question: The Rhodophycophyta are found in the ___ habitat.
+Answer: aquatic
+
+Question: The fungal cell is usually enclosed in a cell wall of _____.
+Answer: chitin
+
+Question: Yeasts reproduce sexually through _____. 
+Answer: spore formation
+
+Question: In Fungi, hyphae with cross walls are called _____.
+Answer: septate
+
+Question: In Fungi, hyphae without cross walls are called _____.
+Answer: coenocytic
+
+
+Answer: aseptate
+
+Question: Obligate anaerobic fungi are found in the ____.
+Answer: rumen of cattle
+
+Question: Asexual reproduction is also called _____ reproduction 
+Answer: somatic
+
+
+Answer: vegetative
+
+Question: The sex organelles of fungi are called _____.
+Answer: gametangia
+
+Question: _____ are important research tools in the study of fundamentalProcesses.
+Answer: Fungi
+
+Question: The most numerous microorganisms on earth are _____.
+Answer: Viruses
+
+Question: The smallest viruses are a little larger than ____. 
+Answer: ribosomes
+
+Question: Virus particles can be counted indirectly by the ____ assay.
+Answer: hemagglutination
+
+Question: Nutrition in protozoa is _____, 
+Answer: heterotrophic
+
+Question: ______ are used to degrade biological and industrial effluents.
+Answer: Protozoa
+
+
+Answer: Protozoans
+
+Question: An an open culture is also called a ____ culture. 
+Answer: continuous
+
+Question: Two major types of continuous culture system commonly used are chemostats and _____.
+Answer: turbidostats
+
+Question: Microbial growth measurement helps to determine the growth rate and_____. 
+Answer: generation time
+
+Question: The total number of microbial cells can be achieved by using ____ methods 
+Answer:  direct count
+
+Question: The amount of water available to microorganism is expressed in terms of the _____. 
+Answer: water activity
+
+
+Answer: aw
+
+Question: Moist heat sterilization involves the use of _____.
+Answer: Autoclave
+
+Question: Which of the following is not a characteristic of the mycobacterium? 
+Answer: they are either anaerobes or preferentially anaerobic 
+
+Question: Which of the following is not a feature of the Endospore form gram – positive bacteria?   
+Answer: they have a fermentative type of metabolism   
+
+Question:   Which of the following bacteria is associated with plant roots, nitrogen fixation?   
+Answer:  Azospirillum 
+
+Question: Which of the following is not a microbial taxonomic rank?  
+Answer: Number of children in a family
+
+Question: The following processes result in variation in microorganisms except _____.  
+Answer: gene association  
+
+Question: The following are external structure of a bacterial cell wall except ____. 
+Answer: spores 
+
+Question: The following are physiological and metabolic characteristics used in classifying microorganisms except ____.  
+Answer: osmotic concentration 
+
+Question: Which of the following radiation types induces the formation of thymine dimmers and strand breaks in DNA? 
+Answer: ultraviolet radiation  
+
+Question: Which of the following classes of microorganisms has growth optima around 20° C to 45° C?  
+Answer: Mesophiles 
+
+Question:   Atmospheric nitrogen is directly useable by most organisms but has to be converted to stable organic form such as ____ and ____ 
+Answer:  Ammonium and Nitrate
+
+Question: Which of the following statements is not correct about raw data?
+Answer: it lacks heterogeneity
+
+Question: The microscope used to observe living unstained cells and organisms as a result of change in the way they are illuminated is ___. 
+Answer: Dark field microscope   
+
+Question: The following are types of staining except ___.
+Answer: Chemical fix staining  
+
+Question: A biological weapon may be used to ___ a person. 
+Answer: All of the options 
+
+Question: The following are types of microbial warfare agent except __.  
+Answer: algae
+
+Question: Microorganisms possess the following characteristics except___.  
+Answer: reproduction by binary fusion  
+
+Question: shapes of bacterial cells except _____. 
+Answer: radial 
+
+Question: The following are flagella types except ____. 
+Answer: Limphotrichous   
+
+Question: The following are types of asexual spores in fungi except ____.
+Answer: Chemydospores 
+
+Question: The following are methods of sexual reproduction in fungi except _____.
+Answer: Genital copulation  
+
+Question: Molds and yeasts are used in the production of the following except ____. 
+Answer: soy-milk  
+
+Question: Molds and yeasts are important research tools in the study of the following fundamental processes except ___.  
+Answer: medicine 
+
+Question: Viruses differ from living cells in the following ways except ___. 
+Answer: they have both DNA and RNA in almost all virons                  
+
+Question: The following are characteristic of viruses except ______.
+Answer: they range in size from 20-400µm  
+
+Question: The following are types of capsid symmetry except ____.  
+Answer: isohedral
+
+Question: The following are characteristic of algae except ______.
+Answer: they are prokaryotic organisms       
+
+Question: __ is not an economic product derived from algal cell wall.
+Answer: Succinate
+
+Question: The following are locomotory organelles in protozoa except __.
+Answer: Lenticels
+
+Question: The following are means of reproduction in prokaryotes except ___. 
+Answer: binary fusion  
+
+Question: ___ is not a step of septation 
+Answer: linkage of the Z ring to the septum
+
+Question: The following are phases of microorganisms’ growth curve except ___. 
+Answer: Lap
+
+Question: The following are methods of measuring total cell number of organisms except _____.  
+Answer: spectrophotometry
+
+Question: The following are disadvantages of the viable counting methods except ____.
+Answer: they are simple technique sensitive  
+
+Question: Prokaryotes that have growth optima between 80ºC and 115ºC are called ____. 
+Answer: Hyperthermophiles 
+
+Question: ___ is not a physical method used for sterilization. 
+Answer: high temperature  
+
+Question: Autoclaving uses ___ under pressure.
+Answer: Steam
+
+Question: The following are characteristics of an ideal disinfectant except _____. 
+Answer: it must have a high surface tension
+
+Question: ___ are used as disinfectants in hospital and laboratories. 
+Answer: Phenolics 
+
+Question: ___ can both sterilize and disinfect. I. formaldehydes  II. alcohols III. glutaraldehydes   
+Answer: I and III 
+
+Question: ____ is not a method used in the classic approach to taxonomy.
+Answer: Genetic
+
+Question: ___ is not a characteristic used in the classic approach to determining microbial taxonomy and phylogeny 
+Answer: biochemical 
+
+Question: The following are the genera of the Spirochetes except ___.
+Answer: Brucella 
+
+Question: Aerobic bacteria whose cell walls contain large amounts of lipids are called ___ bacteria           
+Answer: Coryne 
+
+Question: Gram-negative, non-phototrophic bacteria that obtain energy for CO<sub>2</sub> fixation from the oxidation of Ammonia are known as __ bacteria.
+Answer: Chemolithotrophic 
+
+Question: Divisions within Bergey Manual of Systematic Bacteriology is based on the following characteristics except ___. 
+Answer: cell size  
+
+Question: Volume ____ bacteria are made up of bacteria with unusual properties based on the Bergey Manual of Systematic Bacteriology.  
+Answer: 3
+
+Question: __ are the earliest and simplest group of fungi.
+Answer: Chytridiomycetes
+
+Question: __ are tiny unicellular parasites of animals and plants.  
+Answer: Microsporidea
+
+Question: Systematic classification of fungi is based on ___. I. sequence analyses of 185 r RNA II some protein coding genes.  III. Characteristics of sexual spores.
+Answer: I, II and III   
+
+Question: Single cells, filamentous algae with pale green or yellow green pigments are known as ___.  
+Answer: Xanthophycophyta
+

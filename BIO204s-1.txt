@@ -1,0 +1,210 @@
+MCQ1: The commonest rocking microtome is called a -----------------
+Answer: Cambridge Rocker
+
+MCQ2: A rocking microtome is generally best for cutting sections thicker than --------
+Answer: six microns
+
+MCQ3: Rotary microtomes enable sections of ---------- thickness to be cut
+Answer: 5 microns
+
+MCQ4: -----------is a device which usually has a wedge blade and the instrument is unusual as the blade is moved past the fixed chuck 
+Answer: freezing microtome 
+
+MCQ5: Microtomes of all kinds are cleaned of wax after use possibly by using a little of--------- harmful solvent
+Answer: Xylene
+
+MCQ6: Microtome parts liable to rust should be wiped with a little -----------------
+Answer: thin oil
+
+MCQ7: There are three basic cross sectional shapes of knives, namely,------------- 
+Answer: Wedge, plano- concave and double concave
+
+MCQ8: ----------- knives are often used for sectioning soft materials such as celloid in embedded Tissues
+Answer: plano-concave
+
+MCQ9: A stereo / dissecting microscope is used for______.
+Answer: Observing specimen in three-dimensional images
+
+MCQ10: Botanical sectioning razors are generally ------------------
+Answer: plano-convex
+
+MCQ11: The best knives for the cutting of paraffin blocks are the -----------
+Answer: double concave
+
+MCQ12: The single ----------- ground botanical razor is the ideal instrument for cutting sections
+Answer: Hollow
+
+MCQ13: ----------- is the mechanical cutting of plant or animal materials in the laboratory
+Answer: Microtomy
+
+MCQ14: The purpose of ----------- in the lab is to get a thin section of the object preferably only one cut thick for microscopic viewing
+Answer: Sectioning
+
+MCQ15: --------- is the science of the measurement of light in terms of its perceived brightness to the human eye
+Answer: Photometry
+
+MCQ16: ----------- is the science of measurement of radiant energy (including light) in terms of absolute power
+Answer: Radiometry
+
+MCQ17: Photometry is typically based on the eye’s -----------response
+Answer: Photopic
+
+MCQ18: Parallel examples of analogous systems of quantities of photometric and radiometric quantities include all of these, except
+Answer: Absolute and none absolute power
+
+MCQ19: Watts are units of radiant flux while ----------- are units of luminous flux
+Answer: Lumens
+
+MCQ20: The ---------- is the photometric unit of light output
+Answer: Lumen
+
+MCQ21: A dark-field microscope is useful for ______.
+Answer: Observing bacterial motion
+
+MCQ22: The purpose of dehydration in permanent slide preparation is to_____.
+Answer: allow complete infiltration of tissues with Canada balsam
+
+MCQ23: ---------- deals mainly with measurement of heat energy
+Answer: Calorimetry
+
+MCQ24: ------------ is a form of energy that flows from a part of a system to another through a temperature gradient
+Answer: Heat
+
+MCQ25: The following are good practices in the storage of prepared slides except ______.
+Answer: No need to store temporary slides
+
+MCQ26:  If a slide is to be kept for long-term reference
+Answer: it must be made as a permanent preparation
+
+MCQ27: Study of the nervous system is done with:
+Answer: preserved animals
+
+MCQ28: Proper disposal of dissected animals should be done by______.
+Answer: By burying them deep in the soil
+
+MCQ29: Which of the following is a type of microtome used in the laboratory?
+Answer: All of the options
+
+MCQ30: The following are cross sectional shapes of microtome knives except _____.
+Answer: Zig-zag
+
+MCQ31: All microtomes should be cleaned with______.
+Answer: Wax
+
+MCQ32: ............. are solid rods made of globular proteins and are important component of the cytoskeleton
+Answer: Microfilaments
+
+MCQ33: The main aim of fixation for fresh tissues is to _____
+Answer: kill tissues
+
+MCQ34: The making of a permanent stained preparation mounted in Canada balsam involves five process in order
+Answer: Fixation -  Staining – Dehydration -Clearing-Mounting  
+
+MCQ35: Microtomes can be divided into four basic groups in the following order:
+Answer: Rocking –Rotary- Sledge -Freezing 
+
+FBQ1: Clearing removes all traces of alcohol and allows the mountant to infiltrate the ----------
+Answer: Tissue
+
+FBQ2: The simplest light microscope is ----------- magnifying lens
+Answer: simple
+
+FBQ3:  If a slide is to be kept for long-term reference it must be made as a ------------preparation
+Answer: Permanent
+
+FBQ4: The study of the nervous system is done with  ------------------ animals
+Answer: preserved
+
+FBQ5: We can immobilize a frog for dissection by ------------------
+Answer: pithing
+
+FBQ6: Dissection of animals is done in a ------------ tray
+Answer: dissection
+
+FBQ7: During dissection, vertebrates are better opened up from the --------- side
+Answer: ventral
+
+FBQ11: Highly refractive structure bend light at much greater angle than do structure with low ------------
+Answer: refractive index
+
+FBQ12: The conductivity of a solution depends on the number of 
+Answer: Ions
+
+FBQ13: The oil immersion objective with 1000x magnification is also known as_____?
+Answer: Wet objective
+
+FBQ14: When a dissecting microscope is used, ----------- images of the object can be seen on the stage.
+Answer: three-dimensional
+
+FBQ15: ------------ microscopy is a cheaper alternative to phase contrast microscopy
+Answer: Dark field
+
+FBQ16: As a rule the shortest ---------- has the lowest power and the longest one has the highest power.
+Answer: Lens
+
+FBQ17: The main aim of fixation for fresh tissues is to kill -----
+Answer: Tissues
+
+FBQ18: The ------------ is the photometric unit of light output
+Answer: Lumen
+
+FBQ19: ---------------- measurement is based on photodetectors, devices that produce an electric signal when exposed to light
+Answer: Photometric
+
+FBQ20: ----------------- photometers are used to measure the directional luminous flux produced by Lamps
+Answer: Spherical
+
+FBQ21: A------------- rotates about the lamp in three axes measuring the output of the lamp from all sides
+Answer: Photocell
+
+FBQ22: when a hot and cold objects are in-------------- contact, heat flows from the hot to the cold object until thermal equilibrium is established
+Answer: Thermal
+
+FBQ23: The calorimeter is usually made up of ----------, a good conductor so that it reaches the same temperature as its content as soon as possible
+Answer: Copper
+
+FBQ24: Why an insulating lid is used to cover the calorimeter to which leads to cooling and loss of part of the liquid weighed into the calorimeter to prevent ----------
+Answer: evaporation
+
+FBQ25: --------------- is the rate at which energy is generated or expended
+Answer: Power
+
+FBQ26: The subject of chromatograpy was firstly introduced by the Russian botanist -------------
+Answer: Micharl Iswett
+
+FBQ27: Separation of two sample components in chromatography is based on their different distribution between two ------------ phases
+Answer: non-miscible
+
+FBQ28: ------------ is a method for separating the components of a mixture by differential distribution of the components between a stationary phase and mobile phase. 
+Answer: Chromatography
+
+FBQ29: In liquid chromatography the mobile phase is a --------
+Answer: Liquid
+
+FBQ30: --------------- Chromatography is one of the most common types of chromatography in which filter paper serves as a support for immobile liquid phase
+Answer: Paper
+
+FBQ31: ------------------- chromatography is frequently used by organic chemists to purify liquids and solids
+Answer: Column
+
+FBQ32: Thin layer chromatography is particularly useful in ----------------- work
+Answer: forensic
+
+FBQ33: Gas Chromatography is used to analyse ----------------- samples for the presence of alcohol
+Answer: blood
+
+FBQ34: ---------- lenses are best used at higher powers  to focus light unto a specimen 
+Answer: Condenser  
+
+FBQ35: In microscopy staining is a technique used to ________ and ______
+Answer: improve contrast, resolution
+
+FBQ36: In microscopy staining is a technique used to ________ and ______
+Answer: improve contrast, resolution
+
+FBQ37: In microscopy staining is a technique used to ________ and ______
+Answer: improve contrast, resolution
+
+FBQ38: In microscopy staining is a technique used to ________ and ______
+Answer: improve contrast, resolution
+

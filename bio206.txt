@@ -1,0 +1,210 @@
+FBQ1: ______ estimate is obtained when a range of values is used to estimate a population parameter
+Answer: Interval
+
+FBQ2: The two statistical hypotheses for each situation are  null hypothesis and the ________  hypothesis
+Answer: alternative.
+
+FBQ3: ______is a statistical hypothesis that states that there is no difference between a parameter and a specific value, or that there is no difference between two parameters.
+Answer: Null hypothesis
+
+FBQ4: The ________is the degree of difference between sample mean (x) and population mean (μHo) that leads to the rejection of the null hypothesis.
+Answer: significance difference
+
+FBQ5: In hypothesis testing situation, there are _____possible outcomes
+Answer: four
+
+FBQ6: ________ error occurs if you do not reject the null hypothesis when it is false or when a false hypothesis is erroneously accepted as true.
+Answer: Type II
+
+FBQ7: When the population standard deviation is unknown and the sample size is less than 30, the type of test usually used is ____
+Answer: t-test
+
+FBQ8:  By means of ______test it is possible to test the hypothesis that the two variables are independent
+Answer: chi square
+
+FBQ9: ________is the general method for testing compatibility based on a measure of the extent to which the observed and expected frequencies agree
+Answer: Chi-square
+
+FBQ10: ________ are areas of inferential statistics which determine whether a relationship between two or more numerical or quantitative variables exists.
+Answer: Correlation and regression
+
+FBQ11: The symbol use to represents samples correlation coefficient is ____ 
+Answer: r
+
+FBQ12: A regression line sometimes called the _____is a line that best fits the point in a scatter diagram, and it always passes through the point (X, Y).
+Answer: least-square line 
+
+FBQ13:  In the general equation for a fitted regression line Y=a+bX,  Y is equal to ____ on the vertical axis.
+Answer: Dependent variable
+
+FBQ14: A ________is a graph of the ordered pairs (x,y) of numbers consisting of the independent variable X and the dependent variable Y.
+Answer: scatter diagram
+
+FBQ15: ______ correlation is when a change in one variable is exactly matched by a change in the other variable
+Answer: Perfect
+
+FBQ16: The full meaning of SPSS is ________________ 
+Answer: Statistical Package for Social Sciences
+
+FBQ17: The type of test that is used if the population in a particular hypothesis-testing situation is not normally distributed is ____________  
+Answer: Non-parametric tests
+
+FBQ18:  A stratified sample is a sample obtained by dividing the population into subgroups, called __________ 
+Answer: Strata
+
+FBQ19: In measuring the height of some rabbit, the mean  was 76, and the standard deviation was 6, calculate the standard height of rabbits having a height of 112
+Answer: 6
+
+FBQ20: The width of the termite house is normally distributed with mean 3cm and standard deviation 0.14. What width value separates the widest 10% of all such house from the other 90%?   
+Answer: 3.179
+
+FBQ21: A conjecture about a population parameter which may or may not be true is called______.
+Answer: Hypothesis
+
+FBQ22: The area in the normal distribution diagram that indicate that a null hypothesis should be rejected is called the _________ region.
+Answer: critical rejection
+
+FBQ23: The risk of rejecting a true hypothesis is known as _____ error
+Answer: Type 1
+
+FBQ24: When a change in one variable is to a small extent matched by a change in the other, this is called____ correlation
+Answer: Low
+
+FBQ25: If the probability of a defective syringe is 0.4. The mean for the distribution of defective syringes in a total of 500 will____
+Answer: 200
+
+FBQ26: A committee of 5 doctors can be chosen from 9 doctors in ____ ways
+Answer: 126
+
+FBQ27: We have a _______ correlation when an increase in one variable is associated to a greater or lesser extent with a decrease in the other
+Answer: negative
+
+FBQ28: ________is the numeric location of the center of the class
+Answer: Midpoint
+
+FBQ29: ________is a discrete probability distribution that is useful when n is larger and p is small and when the independent variables occur over a period of time.
+Answer: Poisson distribution
+
+FBQ30: _______ is a special probability distribution that describes the distribution of probabilities when there are only two possible outcomes for each trial of an experiment.
+Answer: Binomial distribution
+
+FBQ31: Distribution that has no specific beginning or ending value is called ___ distribution
+Answer: open ended
+
+FBQ32: A scatter of related values, such as the assortment of weights in a group of chicken is called
+Answer: distribution
+
+FBQ33: ____ is simply a complete listing of all possible outcomes of an experiment, together with their probabilities.
+Answer: Probability distribution 
+
+FBQ34: The normal distribution is defined by just two statistics, name them
+Answer: mean and standard deviation 
+
+FBQ35: ______is a particular pattern of variation of numbers around the mean
+Answer: Normal distribution
+
+MCQ1: The mean yield of yam following the fertilizer treatment from 10 plots was 176.1kg with standard deviation 3.88. What is the 95% confidence limit for the mean yield of the yam?
+Answer: (173.32, 178.88)
+
+MCQ2: If 3% of the yam tuber harvest from a portion of farmland get rotten within 5 weeks of harvest, find the probability that in a sample of 100 tubers less than or equal to 2 tubers will be defective
+Answer: 0.4232
+
+MCQ3: Adult males have normally distributed heights with mean equal to 70 inches and standard deviation equal to 3 inches, what percentage are between 68 and 73 in?
+Answer: 58.89%
+
+MCQ4: Which of the following is not true about a binomial distribution?
+Answer: The outcome of a new trial can depend on the trial of the previous
+
+MCQ5: The width of the termite house is normally distributed with mean 3cm and standard deviation 0.14.  What width value separates the widest 10% of all such house from the other 90%?   
+Answer: 3.179
+
+MCQ6: If a normal distribution has u=30 and sd(a)= 5, what is the 6th percentile of the distribution? 
+Answer: 22.225
+
+MCQ7: For a certain breed of monkey in a zoo, the time to start eating when food is supply is normally distributed with mean 1.25 min and standard deviation of 0.46 min. what is the probability that the time to start eating is between 1 min and 1.75min
+Answer: 0.5675
+
+MCQ8: Evaluate P(-0.38&lt;=z&lt;=1.25) 
+Answer: 0.5424 
+
+MCQ9:  Which of the following is not true about a normal distribution curve?
+Answer: Most items on the curve are clustered around the variance
+
+MCQ10: In an experiment, the class with is 9, how many classes can be formed if the range of the set of data is 270. 
+Answer: 30
+
+MCQ11: A biologist discover that the proportion of 5 microorganisms in pond are V=24, W=36, X=15,Y=27, Z=38,  determine the relative frequency of organism X
+Answer: 10.71
+
+MCQ12: Which of the following is true of the projection of two vectors X and Y?
+Answer: The projection of X on Y equal the scalar product of X.y where y is a unit vector in the direction of Y
+
+MCQ13: Statistics that deals with using a conclusion deduce from a smaller sample to make conclusion on the entire larger population is defined as 
+Answer: Inferential
+
+MCQ14: The heights in inches of tomato plants in a garden are shown below. If the data is organized into a frequency distribution with six classes, what will be the class width? 18 20 18 18 24 10 15 12 29 36 13 20 18 24 18 16 16 20 7
+Answer: 5
+
+MCQ15:  Information in the form of numerical figure is termed_______ 
+Answer: data
+
+MCQ16: In the construction of a frequency, which of the following is not important?
+Answer: Give gaps in the classes to give room for lack of values.
+
+MCQ17: Which of these is not a reason for constructing a frequency distribution?
+Answer: So that drawing of  charts and graphs may not be necessary
+
+MCQ18: Which of the following is not a source of variation in a given population?
+Answer: Type of habitat
+
+MCQ19: Which of these is not frequently used as confidence levels employed in interval estimation?
+Answer: 98 percent
+
+MCQ20: The critical or rejection region is 
+Answer:  the range of values of the test values that indicates that there is significant difference and that the null hypothesis should be rejected
+
+MCQ21: In poultry farming, the daily demand for water is normally distributed with a mean of 4000 litres and a standard deviation of 400 litres, if z-score of demand for a given day is 1.3, how many litres of water is the demand for the day?
+Answer: 4520 litres
+
+MCQ22: The seven pairs of values (x, y) below shows the number of absences, x, in a BIO206 tutorial at Abuja study centre and the final exam grade, y, for 7 students. Find the correlation coefficient between x and y  (1, 95),  (0 , 90), (2,90), (6 ,55 ), (4, 70), (3 ,80), (3,85)
+Answer: r = -0.93
+
+MCQ23: The seven pairs of values (x, y) below shows the number of absences, x, in a BIO206 tutorial at Abuja study centre and the final exam grade, y, for 7 students. Find the equation of regression between x and y  (1, 95),  (0 , 90), (2,90), (6 ,55 ), (4, 70), (3 ,80), (3,85)
+Answer: y = 3.56x - 9.57
+
+MCQ24: Weight measurement is conducted on new harvest of Watermelon, Thirty (n=30) randomly selected watermelon are carefully weigh and the weight recorded, the mean weight of the sample is 28.6g and the sample standard deviation is 2.2g. Estimate a 95% confidence interval for the mean weight in the whole watermelon harvest
+Answer: (27.81, 29.39)
+
+MCQ25: Find the probability that seven of 10 persons will recover from a tropical disease if we can assume independence and the probability is 0.80 that any one of them will recover from the disease
+Answer: 0.2
+
+MCQ26: The average number of customers arriving on any one day at poultry farming is 12, what is the probability that on a given day fewer than 9 customers will arrive at the farm?
+Answer: 0.16
+
+MCQ27: Ten percent of the tools produced in a certain manufacturing process turn out to be defective. Find the probability that in a sample of 10 tools chosen at random exactly 2 will be defective by using poisson approximation to binomial distribution
+Answer: 0.18
+
+MCQ28: Before applying a statistics in a research, which of the following statement is incorrect in what a researcher need to know?
+Answer: Un-clarification of what to be achieved
+
+MCQ29: If the probability of a defective syringe is 2/3. find the standard deviation for the distribution of defective syringes in a total of 729
+Answer: 12.73
+
+MCQ30: Which of the following is not an experimentation principle?
+Answer: diversion
+
+MCQ31: A basket contains 5 oranges, 4 Mangoes, 3 Apples and 2 guavas. If 4 fruits are drawn at random, determine the probability that  1 of each fruit is drawn
+Answer: 0.12
+
+MCQ32: Find the probability that in five tosses of a fair die a 5 appears at no time  
+Answer: 3125/7776
+
+MCQ33: A Biologist discovered that the proportion of 5 micro organisms in pond are V=24, W=36, X=15,Y=27, Z=38,  determine the relative frequency of organism X
+Answer: 10.71
+
+MCQ34: When do we have a negative correlation?
+Answer: when an increase in one variable is associated to a greater or lesser extent with a decrease in the other
+
+MCQ35: In a poultry farm, the daily demand for water is normally distributed with a mean of 4000 litres and a standard deviation of 400 litres, if z-score of demand for a given day is 1.3. How many litres of water is the demand for the day?
+Answer: 4520 litres
+

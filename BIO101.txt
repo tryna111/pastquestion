@@ -1,0 +1,210 @@
+FBQ1: The cytoplasm of a plant cell contains _________. 
+Answer: Organelles  
+
+FBQ2: Antibodies against HIV/AIDS are produced within ------------ months
+Answer: Three
+
+FBQ3: ____are the most ancient group of organisms that appeared about 3,500 million years ago.
+Answer: Bacteria
+
+FBQ4: Some bacteria can survive at very high temperatures of up to ____ degree centigrade or very low freezing temperatures.
+Answer: 360
+
+FBQ5: Cytomegalovirus causes _______ in its victims 
+Answer: Blindness  
+
+FBQ6: Nitrosomonas and _____ bacteria are involved in nitrogen cycle 
+Answer: Nitrobacter  
+
+FBQ7: --------------- are fine hair-like protein fibrils that serve as organs of locomotion
+Answer: Flagella
+
+FBQ8: ---------------- in a unicellular organism is increase in its protoplasm
+Answer: Growth
+
+FBQ9: The stem that is erect, cylindrical and has no branches is called _____.
+Answer: Caudex
+
+FBQ10: Organisms which lack mitosis division and use binary fission method for cell division are known as _____
+Answer: Prokaryotes
+
+FBQ11: The tip of the root has a covering called _____.
+Answer: Root cap
+
+FBQ12: The terminal end of the shoot and root are regions where ______ take place.
+Answer: cell divisions
+
+FBQ13: A young undeveloped shoot consisting of a very short stem and tender leaves is best referred to as a _____
+Answer: Bud
+
+FBQ14: The study of fungi is referred to as _____.
+Answer: Mycology
+
+FCQ15: The ______ in the cell is the structure that allows the molecules to pass from one solution to the other.
+Answer: Membrane
+
+FCQ16: The process by which phage reproduction is initiated in lysogenized culture is called ____
+Answer: Induction
+
+FCQ17: The special kind of microscope to see a virus is called _____ microscope
+Answer: Electron
+
+MCQ18: In Ulothrix, reduction division takes place at the time of germination of
+Answer: Zygote
+
+FCQ19: Living organisms that synthesize their organic requirement by using light are called ________
+Answer: Phototrophs.
+
+FCQ20: ______________ is the route of Hepatitis B 
+Answer: Transplacental  
+
+FBQ21: Transpiration in plants is measured with a ______.
+Answer: Photometer
+
+FBQ22: Splitting of water in photosynthesis is called ______.
+Answer: Photolysis
+
+FBQ23: Deficiency of the element _______ causes chlorosis.
+Answer: Magnesium
+
+FBQ24: Femaleness is promoted in cucurbits by using 
+Answer: IAA
+
+FBQ25: Most types of virus particles show Cuboid and ------------ types of symmetries?
+Answer: Helical
+
+FBQ26: A pollination associated with insects is known as _____pollination.
+Answer: Entomophily
+
+FBQ27: A  double-stranded DNA  copy of  the single-stranded virus RNA is made using  reverse -------------------
+Answer: Transcriptase
+
+FBQ28: Virus particles bud off from the cell surface membrane of the host by -
+Answer: Exocytosis
+
+FBQ29: Cryptosporidiosis is a ___________ infection 
+Answer: Protozoan
+
+FBQ30: In plant cells the____ acts as the differentially permeable membrane.
+Answer: Ectoplasm
+
+FBQ31: The structure of a ____ consist of either a DNA or RNA
+Answer: Virus
+
+FBQ32: How many scientists proposed what is commonly known as cell theory?
+Answer: Two
+
+FBQ33: In which year was the idea that new cells commonly come from pre-existing cells proposed?
+Answer: 1855
+
+FBQ34: An easy way of looking at cells is to consider them as a bag of chemicals that is capable of surviving and ____
+Answer: Multiplying
+
+FBQ35: Which of the energy sources is necessary for building complex nutritive substances?
+Answer: Light
+
+MCQ1:  Every living cell is made up of ________  
+Answer: protoplasm 
+
+MCQ2: Cells are formed from the ______ of a plant
+Answer: Meristem
+
+MCQ3:  Growth in a multicellular organism  
+Answer: increases the number of its cells 
+
+MCQ4: Virus glycoprotein attaches to a specific receptor ----------- in the cell surface membrane
+Answer: Protein
+
+MCQ5: Excretion in living things is resultant from ________  
+Answer: cell activities in the cytoplasm 
+
+MCQ6: Byproducts if left in living things can cause ________  
+Answer: harm to the cell 
+
+MCQ7: When healthy and normal cell is put in a concentrated solution, it will lose _______ to the surrounding environment
+Answer: Water
+
+MCQ8:  The saprotrophs are mainly   
+Answer: bacteria and fungi  
+
+MCQ9:  Organisms that source carbon from organic matters are called   
+Answer: heterotrophs 
+
+MCQ10: Tuberculosis is a ­­­­_________ infection   
+Answer: Bacterial
+
+MCQ11: Which of the following statements is correct about prokaryotes?   
+Answer: All of the options
+
+MCQ12: The process by which living organisms get rid of unwanted products (waste) is known as
+Answer: Egestion
+
+MCQ13: _______ is a process by which all cells of living organisms multiply or divide. 
+Answer: reproduction
+
+MCQ14: The purpose for feeding is to obtain ----------
+Answer: Energy
+
+MCQ15: Simplest type of reproduction in plants is found in
+Answer: Chlamydomonas
+
+MCQ16: ____ glycoprotein attaches to a specific receptor protein in the cell surfacemembrane. 
+Answer: Virus
+
+MCQ17: The viral ____  is released into the cytoplasm of the host cell, together with theenzyme reverse transcriptase.
+Answer: RNA
+
+MCQ18: Whenever the cell divides, it also makes a ____ of the viral DNA. 
+Answer: Copy
+
+MCQ19: Partial limb paralysis is caused by the   
+Answer: polio virus 
+
+MCQ20: ____ are the most ancient group of organisms that appeared about 3,500 million years ago.
+Answer: Bacteria
+
+MCQ21: The source of transmission of corona virus is the ________  
+Answer: nasopharyn. 
+
+MCQ22:  Virus is cultured in the laboratory using  
+Answer: chick embryo  
+
+MCQ23: Base plate of a bacteriophage is attached to tail fibers which are ------------- in number
+Answer: 6
+
+MCQ24: Phage tail structure of a bacteriophage is more complex than its
+Answer: Head
+
+MCQ25: Shape of head of a bacteriophage is
+Answer: Elongated pyramidal
+
+MCQ26: Which of the following processes take place during transcription?
+Answer: a section of DNA is copied to make RNA  
+
+MCQ27: The movement of water molecules from an area of high concentration to an area of low concentration through a semipermeable membrane is known as ____
+Answer: Osmosis
+
+MCQ28: The movement of molecules from an area of low concentration to an area of high concentration against the concentration gradient is known as :
+Answer: Active Transport 
+
+MCQ29: The period of inactivity during virus reproduction is also known as ________ period  
+Answer: latency 
+
+MCQ30: Essential salts dissolved in body fluids are known as :
+Answer: Electrolytes
+
+MCQ31: The system of the body that acts to collect tissue fluid that is not absorbed directly back into the bloodstream is :
+Answer: Lymphatic system 
+
+MCQ32: Spirogyra differs from moss-protonema in having
+Answer: pyrenoids
+
+MCQ33: The _____is the basic unit of structure and function in living organisms.
+Answer: Cell 
+
+MCQ35:  In the life cycle of a virus the DNA copy enters the nucleus of the host cell and inserts itself into the host ________  
+Answer: DNA
+
+MCQ34: In Ulothrix, reduction division takes place at the time of
+Answer: germination of zygote
+

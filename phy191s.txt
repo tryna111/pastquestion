@@ -1,0 +1,210 @@
+MCQ1: In a simple pendulum experiment, 20 oscillations were completed in 50s. Calculate the period of the pendulum.
+Answer: 0.02s
+
+MCQ2: A body of mass 2 kg moves in a circular path with a uniform speed of 10 m/s. If the radius of the path is 5m, calculate the magnitude of the centripetal force action on the body.
+Answer: 40N
+
+MCQ3: Which of the apparatus is not needed for the determination of acceleration due to gravity g?
+Answer: Density bottle
+
+MCQ4: A simple bob executing simple harmonic motion has 2cm and 12Hz as amplitude and frequency respectively. Calculate the period of the motion.
+Answer:  0.083s 
+
+MCQ5: The value of acceleration due to gravity  depends on one of these:
+Answer: Density of bobs
+
+MCQ6: The period of the body performing simple harmonic motion is 2s. If the amplitude of the motion is 3.5 cm, calculate the maximum speed (π=22/7).
+Answer: 11cm/s
+
+MCQ7: Which of the following is the best equation of a non-linear graph?
+Answer: y=ax+bx
+
+MCQ8: If the graph produced is a straight line, then the relationship is described as____
+Answer: Linear
+
+MCQ9: Graphs showing how two physical measurements are related can be represented in which form?
+Answer: Pictorially
+
+MCQ10: If y=mx + b, and y is plotted against x; what type of graph will be obtained?
+Answer: Linear graph not passing through the origin
+
+MCQ11: Relative error can be defined as____
+Answer: Ratio of the possible error to the total measurement 
+
+MCQ12: What is the relative error, if the possible error is 0.05cm and measurement is 32cm?
+Answer: 0.02
+
+MCQ13: The time taken for a given event is 7.4s and the possible error is 0.05cm, what is the relative error?
+Answer: 0.007
+
+MCQ14: Consider the following pair of measurements 40.0cm or 8.0cm. Which one is more accurate?
+Answer: 40.0cm
+
+MCQ15: Consider the following pair of measurements: 0.45m or 0.04m. Which one is more accurate?
+Answer: 0.45m
+
+MCQ16: If the diameter of hydrogen atom is 0.000000000106 meters. what is the scientific notation ?
+Answer: 1.06 x10^-10
+
+MCQ17: The mass of a water molecule is 0.00000000000000000000003g. Express in scientific notation.
+Answer: 3 x10^-23
+
+MCQ18: In measurement report, the non-zero digits are___
+Answer: Significant
+
+MCQ19: A digit is significant if and only if it affects ____.
+Answer: The relative error
+
+MCQ20: Multiply 1.23 by 2.3. Round off the result to more accurate measurement 
+Answer: 2.8
+
+MCQ21: Divide 2.1 by 1.54. Round off the result to more accurate measurement.
+Answer: 1.4
+
+MCQ22: Multiply the following figures: 5.2865, 3.8 and 19.62 and round off the result to more accurate value
+Answer: 3.9x10
+
+MCQ23: Divide 9.5362 by 3.2 round off the result to more accurate value
+Answer: 3
+
+MCQ24: Straight line graph show that:
+Answer: The relationship between the two variable are linear
+
+MCQ25: The major errors in measuring instrument are
+Answer: All of the options
+
+MCQ26: Human errors are based on;
+Answer: Judgement and perception
+
+MCQ27: The possible error in measurement is due to
+Answer: Inherent imprecision in measuring devices
+
+MCQ28: A measurement reported to one hundredth of a centimetre’s, such as 4.23cm, we can say;
+Answer: It’s less precise than 4.2cm
+
+MCQ29: The temperature of two places are recorded to be 30.56C and 32.22C we can say that they are___
+Answer: Equally precise
+
+MCQ30: The variables in the function y=Ae-kxare x and y. A negative slope will be obtained if a graph of
+Answer: 1n y is plotted against x 
+
+MCQ31: Which of the following pair of quantities have identical S I unit?I. Force and surface tension    II. Surface tension and spring constant III. Torque and spring constant       IV.  Young’s modulus and pressure
+Answer: II only
+
+MCQ32: The inverse of the slope of graph of extension against tension in the spring represents _____.
+Answer: Spring constant
+
+MCQ33: Specific latent heat of fusion of a substance is the quantity of heat required to
+Answer: Change the state of unit mass of the substance at its melting point
+
+MCQ34: A piece of copper weighing 400g is heated to 100oC and then quickly transferred into a copper calorimeter of mass 10g containing oil of unknown specific heat capacity at 30oC. If the final temperature of the mixture is 50oC and the specific heat capacity of copper is 390JKg-1k-1The heat gained by calorimeter is:
+Answer: 78J
+
+MCQ35:   A piece of copper weighing 400g is heated to 100oC and then quickly transferred into a copper calorimeter of mass 10g containing oil of unknown specific heat capacity at 30oC. If the final temperature of the mixture is 50oC and the specific heat capacity of copper is 390JKg-1k-1, calculate the specific heat capacity of the oil.  
+Answer: 386.1 JKg-1k-1
+
+FBQ1: Let the measured value of two Widths beThe error in the quantity W = W1 + W2 will be____
+Answer: 0.014m
+
+FBQ2: ______ is also known as determinant errors.
+Answer: Systematic error
+
+FBQ3: In an experiment involving vernier calipers, what kind of error is experienced when the jaws are in contact, the zero of the vernier did not coincide with the zero of the main scale?
+Answer: Zero error
+
+FBQ4: The error due to wear and tear of a particular instrument is called____.
+Answer: Back lash error
+
+FBQ5: Error not due to instrumental problem is _____.
+Answer: Observational error
+
+FBQ6: _____causes like parallax in reading a voltmeter scale.
+Answer: Faulty observation
+
+FBQ7: The type of graph equation obeyed if T2 was plotted against M of the equation, 
+Answer: y = ax + b
+
+FBQ8: There are ______ different types of graphs in this course.
+Answer: 4
+
+FBQ9: If W and V are related by equation, W= GVZ is reduced to a linear one, Z represents____.
+Answer: slope
+
+FBQ10: ____are due to causes which can be identified.
+Answer: Systematic error
+
+FBQ11: What is the unit of Mass?
+Answer: Kilogram
+
+FBQ12: When independent measurements are multiplied or divided the___ in error in the result is the square root of the sum of squares of fractional errors in individual quantities.
+Answer: fractional error
+
+FBQ13: Determination of acceleration due to gravitation using simple pendulum is independent of the bob’s ----------
+Answer: mass
+
+FBQ14: The fractional error in the quantity____ is given by n times the fractional error in B.
+Answer: Bn
+
+FBQ15: The error in the result is found by determining how much change occurs in the result when the maximum error occurs in the _____.
+Answer: Data
+
+FBQ16: Data collected can be used to show____ between two physical quantities through graphs.
+Answer: relationship
+
+FBQ17: Which type of motion is executed by a simple pendulum bob?
+Answer: simple harmonic motion
+
+FBQ18: ____is defined as when an object moves to and fro in such a way that its acceleration is directly proportional to its displacement and is always directed to its equilibrium position.
+Answer: simple harmonic motion
+
+FBQ19: Materials that can regain their original shape after the deformation (change in dimensions) are called____.
+Answer: Elastic materials
+
+FBQ20: When Ө is very small in simple harmonic motion then sin Ө = Ө in rad, acceleration, a is proportional to____.
+Answer: displacement
+
+FBQ21: Holding relative density bottle with a moisture hand results to ____
+Answer: expansion
+
+FBQ22: At _____ position of Simple Harmonic Motion (SHM) the displacement of the body is zero.
+Answer: Equilibrium
+
+FBQ23: What is the unit of the specific latent heat of fusion of ice?
+Answer: Jkg-1
+
+FBQ24: At equilibrium position of Simple Harmonic Motion (SHM) the speed of the body is_____.
+Answer: Maximum
+
+FBQ25: The dimensional unit of time is___________________
+Answer: T
+
+FBQ26: When a mass is hung on a spring stretches 6 cm, its period of vibration if it is then pulled down a little is _____.
+Answer: 0.5s
+
+FBQ27: A mass (m) is hung at the end of a spiral spring of force constant of 200N/m. If the spring oscillates with a period of 0.45 s when set in motion, the value of its mass is ____.
+Answer: 1kg
+
+FBQ28:   ____can be defined as the ratio of the mass of water to the mass of an equal volume of water.
+Answer: Relative density
+
+FBQ29: Relative density bottle is also called ______.
+Answer: specific gravity bottle
+
+FBQ30: The dimensional unit of distance is _____
+Answer: L
+
+FBQ31: Glass is an example of ____ material
+Answer: Brittle
+
+FBQ32: ____ states that the deformation of a material is proportional to the applied force in the elastic limit.
+Answer: Hooke’s law
+
+FBQ33: When a material cannot recover its original shape, it is said to undergo ___.
+Answer: plastic deformation
+
+FBQ34: ­­­­­____is a property that makes the surface of liquid to behave as if it is covered with an elastic skin.
+Answer: surface tension
+
+FBQ35: When you are taking reading from stop watch, you avoid error due to _____.
+Answer: parallax 
+
